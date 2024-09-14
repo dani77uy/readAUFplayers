@@ -1,17 +1,18 @@
 package com.tipsuy.auf.gui;
 
-import com.tipsuy.auf.domain.Match;
-import com.tipsuy.auf.domain.Team;
-import com.tipsuy.auf.service.ReadDB;
 import java.sql.Timestamp;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Scanner;
+
+import com.tipsuy.auf.domain.Team;
+import com.tipsuy.auf.service.ReadDB;
+
 import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor
-public class MenuOption {
+public class AddTeamOption {
 
    private final Scanner scanner;
 

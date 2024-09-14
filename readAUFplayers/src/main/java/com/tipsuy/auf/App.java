@@ -1,24 +1,20 @@
 package com.tipsuy.auf;
 
-import com.tipsuy.auf.gui.MenuOption;
+import com.tipsuy.auf.gui.AddTeamOption;
 import java.io.IOException;
 import java.util.Scanner;
 
 import com.tipsuy.auf.config.H2Config;
+import com.tipsuy.auf.gui.ExecuteReadFromAufPage;
 import com.tipsuy.auf.service.ReadAufPage;
 
 public class App {
 
    public static void main(final String[] args) {
-      try {
-         ReadAufPage.read("https://auf.org.uy/rocha-futbol-club/");
-      } catch (IOException e) {
-         throw new RuntimeException(e);
-      }
 
-//      System.out.println("Init H2 database...");
-//      final var connection = H2Config.INSTANCE.getConnection();
-//      H2Config.initScriptExecution(connection, "/data.sql");
+      System.out.println("Init H2 database...");
+      final var connection = H2Config.INSTANCE.getConnection();
+   //   H2Config.initScriptExecution(connection, "/data.sql");
       showMenu();
 
    }
@@ -34,13 +30,17 @@ public class App {
          System.out.println("4 - Exit");
 
          final var option = scanner.nextLine();
-         final var menuOption = new MenuOption(scanner);
+         final var addTeamOption = new AddTeamOption(scanner);
+         final var readPageOption = new ExecuteReadFromAufPage(scanner);
          switch (option) {
             case "1": {
-               menuOption.addMatch(menuOption.selectSeason());
+               addTeamOption.addMatch(addTeamOption.selectSeason());
                break;
             }
-//            case "2": executeAUFPageRead(scanner); break;
+            case "2": {
+               readPageOption.readPage(addTeamOption.selectSeason());
+               break;
+            }
 //            case "3": generateReport(scanner); break;
             case "4":  scanner.close(); return;
             default: System.exit(-1);

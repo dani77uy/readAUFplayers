@@ -11,7 +11,7 @@ public enum H2Config {
 
    INSTANCE;
 
-   private static final String JDBC_URL = "jdbc:h2:./data/auf_players_db";
+   private static final String JDBC_URL = "jdbc:h2:../data/auf_players_db";
 
    private static final String USER = "daniel";
 
@@ -27,7 +27,8 @@ public enum H2Config {
    }
 
    public static void initScriptExecution(final Connection connection, final String scriptPath) {
-      try (var inputStream = H2Config.class.getResourceAsStream(scriptPath); var reader = new BufferedReader(new InputStreamReader(inputStream, StandardCharsets.UTF_8))) {
+      try (var inputStream = H2Config.class.getResourceAsStream(scriptPath);
+            var reader = new BufferedReader(new InputStreamReader(inputStream, StandardCharsets.UTF_8))) {
 
          final var sql = reader.lines().collect(Collectors.joining("\n"));
 

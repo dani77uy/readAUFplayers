@@ -73,8 +73,30 @@ create table if not exists player_change_after_execution
     constraint fk_pla_cha_aft_exe_exe foreign key (execution_id) references execution (id)
 );
 
+create table if not exists team_last_opponent
+(
+  current_team smallint primary key,
+  opponent_team smallint not null ,
+  match_id bigint not null
+);
+
+-- SEQUENCES
 create sequence if not exists seq_players start with 1 increment by 1;
 create sequence if not exists seq_matches start with 1 increment by 1;
+
+-- TRIGGERS
+
+CREATE TRIGGER add_last_opponent
+    AFTER INSERT
+    ON match
+    FOR EACH ROW
+CALL "com.tipsuy.auf.service.trigger.AddLastOpponent";
+
+CREATE TRIGGER add_match_players
+    AFTER INSERT
+    ON player_change_after_execution
+    FOR EACH ROW
+CALL "com.tipsuy.auf.service.trigger.AddMatchPlayers";
 
 --- INSERT DATA
 insert into season
@@ -104,3 +126,10 @@ insert into team
 values (11, 'C Real Montevideo', 'https://auf.org.uy/club-real-montevideo/', 1);
 insert into team
 values (12, 'Rincón FC', 'https://auf.org.uy/rincon-de-carrasco/', 1);
+
+insert into match values ( next value for seq_matches, 6, 5, 1,0,1,1, {ts '2024-09-05 20:30:00'});
+insert into match values ( next value for seq_matches, 10, 7, 2,1,1,1, {ts '2024-09-05 21:20:00'});
+insert into match values ( next value for seq_matches, 12, 8, 4,0,1,1, {ts '2024-09-08 20:08:00'});
+insert into match values ( next value for seq_matches, 4, 2, 0,2,1,1, {ts '2024-09-10 20:30:00'});
+insert into match values ( next value for seq_matches, 1, 11, 0,2,1,1, {ts '2024-09-11 20:30:00'});
+insert into match values ( next value for seq_matches, 3, 9, 7,0,1,1, {ts '2024-09-11 21:10:00'});

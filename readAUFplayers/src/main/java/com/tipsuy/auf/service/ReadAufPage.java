@@ -3,6 +3,8 @@ package com.tipsuy.auf.service;
 import java.io.IOException;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
+import java.util.LinkedList;
+import java.util.List;
 import java.util.Optional;
 
 import org.jsoup.Jsoup;
@@ -19,33 +21,20 @@ public class ReadAufPage {
 
    private static final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
 
-   public void read(final String url) throws IOException {
+   public List<Player> read(final String url) throws IOException {
       final Document doc = Jsoup.connect(url).get();
-      final Elements jugadoresElements = doc.select("article.jugador_club");
-
-      for (Element jugadorElement : jugadoresElements) {
-         final String nombre = jugadorElement.select("h3").text();
+      final Elements playerElements = doc.select("article.jugador_club");
+      final var players = new LinkedList<Player>();
+      for (Element jugadorElement : playerElements) {
          try {
-            final String posicion = jugadorElement.select("h4").text();
-            final int partidos = Integer.parseInt(jugadorElement.select(".icono-partidos + span").text());
-            final int minutos = Integer.parseInt(jugadorElement.select(".icono-minutos + span").text());
-            final int goles = Integer.parseInt(jugadorElement.select(".icono-goles + span").text());
-
-            // Extraer fecha de nacimiento y edad desde el texto
-            final String[] datos = jugadorElement.select("p").text().split(" - ");
-            if (datos.length > 1) {
-               final String fechaNacimiento = datos[0];
-               final int edad = Integer.parseInt(datos[1].split(" ")[0]);
-            } else {
-               //
-            }
-            System.out.println(convertElementToPlayer(jugadorElement));
+            final var player = convertElementToPlayer(jugadorElement);
+            players.add(player);
+            System.out.println(player);
          } catch (Exception e) {
             break;
          }
-
       }
-
+      return players;
    }
 
    private Player convertElementToPlayer(final Element element) {
@@ -61,7 +50,7 @@ public class ReadAufPage {
          birthDate = null;
       }
       return new Player(null, name, Optional.ofNullable(birthDate).map(b -> LocalDate.parse(b, formatter)).orElse(null),
-            Integer.parseInt(totalMatches), Integer.parseInt(totalMinutes), Integer.parseInt(totalGoals));
+            Byte.parseByte(totalMatches), Short.parseShort(totalMinutes), Byte.parseByte(totalGoals));
    }
 
 }
