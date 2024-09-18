@@ -1,4 +1,4 @@
-package com.tipsuy.auf.service;
+package com.tipsuy.readaufplayers.util;
 
 import java.io.IOException;
 import java.time.LocalDate;
@@ -12,24 +12,26 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import com.tipsuy.auf.domain.model.Player;
+import com.tipsuy.readaufplayers.domain.dto.ReadPlayerDTO;
 
 import lombok.experimental.UtilityClass;
+import lombok.extern.slf4j.Slf4j;
 
+@Slf4j
 @UtilityClass
 public class ReadAufPage {
 
-   private static final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+   private static final DateTimeFormatter DATE_TIME_FORMATTER = DateTimeFormatter.ofPattern("dd/MM/yyyy");
 
-   public List<Player> read(final String url) throws IOException {
+   public List<ReadPlayerDTO> read(final String url) throws IOException {
       final Document doc = Jsoup.connect(url).get();
       final Elements playerElements = doc.select("article.jugador_club");
-      final var players = new LinkedList<Player>();
+      final var players = new LinkedList<ReadPlayerDTO>();
       for (Element jugadorElement : playerElements) {
          try {
             final var player = convertElementToPlayer(jugadorElement);
             players.add(player);
-            System.out.println(player);
+            log.info("Player read: {}", player);
          } catch (Exception e) {
             break;
          }
@@ -37,7 +39,7 @@ public class ReadAufPage {
       return players;
    }
 
-   private Player convertElementToPlayer(final Element element) {
+   private ReadPlayerDTO convertElementToPlayer(final Element element) {
       final var name = element.select("h3").text();
       final var totalMatches = element.select(".icono-partidos + span").text().trim();
       final var totalMinutes = element.select(".icono-minutos + span").text().trim();
@@ -49,8 +51,8 @@ public class ReadAufPage {
       } else  {
          birthDate = null;
       }
-      return new Player(null, name, Optional.ofNullable(birthDate).map(b -> LocalDate.parse(b, formatter)).orElse(null),
-            Byte.parseByte(totalMatches), Short.parseShort(totalMinutes), Byte.parseByte(totalGoals));
+      return new ReadPlayerDTO(Byte.parseByte(totalMatches), Byte.parseByte(totalGoals),Short.parseShort(totalMinutes),
+            Optional.ofNullable(birthDate).map(b -> LocalDate.parse(b, DATE_TIME_FORMATTER)).orElse(null), name);
    }
 
 }

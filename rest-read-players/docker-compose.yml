@@ -1,0 +1,18 @@
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: read-auf-players-with-mongo
+    environment:
+      MONGO_INITDB_DATABASE: read-auf-players
+      MONGO_INITDB_ROOT_USERNAME: daniel
+      MONGO_INITDB_ROOT_PASSWORD: aufdbpassword
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./db-data:/data/db
+  app:
+    build: .
+    ports:
+      - "9774:9774"
+    depends_on:
+      - mongodb

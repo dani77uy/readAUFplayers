@@ -6,8 +6,8 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import com.tipsuy.auf.domain.Team;
-import com.tipsuy.auf.service.ReadDB;
+import com.tipsuy.auf.domain.model.Team;
+import com.tipsuy.auf.dao.ReadDB;
 
 import lombok.RequiredArgsConstructor;
 

@@ -1,4 +1,4 @@
-package com.tipsuy.auf.domain;
+package com.tipsuy.auf.domain.model;
 
 import java.io.Serial;
 import java.io.Serializable;

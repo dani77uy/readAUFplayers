@@ -4,10 +4,10 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Scanner;
 
-import com.tipsuy.auf.domain.Player;
-import com.tipsuy.auf.domain.Team;
+import com.tipsuy.auf.domain.model.Player;
+import com.tipsuy.auf.domain.model.Team;
 import com.tipsuy.auf.service.ReadAufPage;
-import com.tipsuy.auf.service.ReadDB;
+import com.tipsuy.auf.dao.ReadDB;
 
 import lombok.RequiredArgsConstructor;
 

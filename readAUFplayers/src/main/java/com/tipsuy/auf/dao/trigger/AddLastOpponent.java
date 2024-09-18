@@ -1,4 +1,4 @@
-package com.tipsuy.auf.service.trigger;
+package com.tipsuy.auf.dao.trigger;
 
 import java.sql.Connection;
 import java.sql.SQLException;

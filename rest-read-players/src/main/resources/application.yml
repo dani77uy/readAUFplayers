@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: rest-read-players
+  data:
+    mongodb:
+      database: "read-auf-players"
+      uri: "mongodb://localhost:27017"
+      username: "daniel"
+      password: "aufdbpassword"
+server:
+  port: 9774
+  servlet:
+    context-path: /read-auf-players/v1
