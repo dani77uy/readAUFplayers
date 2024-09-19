@@ -1,5 +1,6 @@
 package com.tipsuy.readaufplayers.service;
 
+import com.tipsuy.readaufplayers.domain.pk.ExecutionPlayer;
 import java.io.IOException;
 import java.time.LocalDateTime;
 import java.util.LinkedHashMap;
@@ -36,9 +37,9 @@ public class PlayerService {
    private final PlayerExecutionRepository playerExecutionRepository;
 
    public Optional<Map<Player, PlayerExecutionDifference>> readPlayers(final Short seasonId, final Short customTeamId) {
-      final var seasonOpt = seasonRepository.findByCustomSeasonId(seasonId);
+      final var seasonOpt = seasonRepository.findById(seasonId);
       if (seasonOpt.isPresent()) {
-         final var teamsOptional = seasonOpt.get().getTeams().stream().filter(x -> x.getCustomTeamId().equals(customTeamId)).findFirst();
+         final var teamsOptional = seasonOpt.get().getTeams().stream().filter(x -> x.getTeamId().equals(customTeamId)).findFirst();
          if (teamsOptional.isPresent()) {
             final var team = teamsOptional.get();
             final var url = team.getUrl();
@@ -64,7 +65,8 @@ public class PlayerService {
 
    private PlayerExecutionDifference addExecution(final Team team, final Player player, final ReadPlayerDTO dto) {
       final var execution = executionRepository.save(new Execution(LocalDateTime.now(), team));
-      final var playerExecution = new PlayerExecutionDifference(execution, player);
+      final var executionPlayer = new ExecutionPlayer(execution, player);
+      final var playerExecution = new PlayerExecutionDifference(executionPlayer);
       playerExecution.setGoalsDifference(dto.totalGoals());
       playerExecution.setMatchesDifference(dto.totalMatches());
       playerExecution.setMinutesDifference(dto.totalMinutes());

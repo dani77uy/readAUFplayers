@@ -7,18 +7,15 @@ import java.util.Collection;
 import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.List;
-
-import org.springframework.data.annotation.Id;
-import org.springframework.data.mongodb.core.index.CompoundIndex;
-import org.springframework.data.mongodb.core.index.Indexed;
-import org.springframework.data.mongodb.core.mapping.Document;
-
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
-import org.springframework.lang.NonNull;
 import lombok.RequiredArgsConstructor;
 import lombok.ToString;
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.index.CompoundIndex;
+import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.lang.NonNull;
 
 @RequiredArgsConstructor
 @NoArgsConstructor
@@ -33,16 +30,12 @@ public class Season implements Serializable {
    private static final long serialVersionUID = -6133393392430940896L;
 
    @Id
-   private String seasonId = null;
+   private Short id;
 
    @NonNull
    private String tournamentName;
 
    private short year;
-
-   @Indexed(unique = true)
-   @NonNull
-   private Short customSeasonId;
 
    private final Collection<Team> teams = new HashSet<>();
 

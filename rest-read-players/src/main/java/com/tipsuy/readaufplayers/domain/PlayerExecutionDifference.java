@@ -1,20 +1,17 @@
 package com.tipsuy.readaufplayers.domain;
 
+import com.tipsuy.readaufplayers.domain.pk.ExecutionPlayer;
 import java.io.Serial;
 import java.io.Serializable;
-
-import org.springframework.data.annotation.Id;
-import org.springframework.data.mongodb.core.mapping.Document;
-import org.springframework.lang.NonNull;
-
 import lombok.Data;
 import lombok.EqualsAndHashCode;
-import lombok.NoArgsConstructor;
+import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 import lombok.ToString;
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
 
 @RequiredArgsConstructor
-@NoArgsConstructor
 @ToString
 @EqualsAndHashCode(callSuper = false)
 @Document(collection = "player-execution-difference")
@@ -24,14 +21,8 @@ public class PlayerExecutionDifference implements Serializable {
    @Serial
    private static final long serialVersionUID = -7671747242050314774L;
 
-   @Id
-   private String id = null;
-
-   @NonNull
-   private Execution execution;
-
-   @NonNull
-   private Player player;
+   @Id @NonNull
+   private ExecutionPlayer executionPlayer;
 
    private byte matchesDifference = 0;
 

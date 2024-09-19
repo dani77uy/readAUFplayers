@@ -2,17 +2,16 @@ package com.tipsuy.readaufplayers.domain;
 
 import java.io.Serial;
 import java.io.Serializable;
+import java.time.Instant;
 import java.time.LocalDateTime;
-
-import org.springframework.data.annotation.Id;
-import org.springframework.data.mongodb.core.mapping.Document;
-
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
-import org.springframework.lang.NonNull;
 import lombok.RequiredArgsConstructor;
 import lombok.ToString;
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.lang.NonNull;
 
 @RequiredArgsConstructor
 @NoArgsConstructor
@@ -26,7 +25,7 @@ public class Execution implements Serializable {
    private static final long serialVersionUID = -7665208389160060068L;
 
    @Id
-   private Object id = null;
+   private final String id = Instant.now().toString();
 
    @NonNull
    private LocalDateTime executionDateTime;

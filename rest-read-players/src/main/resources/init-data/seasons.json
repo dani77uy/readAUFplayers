@@ -1,0 +1,167 @@
+[
+  {
+    "tournamentName": "Divisional D AUF",
+    "year": 2004,
+    "id": 1,
+    "teams": [
+      {
+        "teamName": "Academia FC",
+        "url": "https://auf.org.uy/academia-fc/",
+        "teamId": 1
+      },
+      {
+        "teamName": "Deportivo CEM",
+        "url": "https://auf.org.uy/deportivo-cem/",
+        "teamId": 2
+      },
+      {
+        "teamName": "Deutscher FK",
+        "url": "https://auf.org.uy/deutscher-fk/",
+        "teamId": 3
+      },
+      {
+        "teamName": "UD Estudiantes del Plata",
+        "url": "https://auf.org.uy/estudiantes-del-plata/",
+        "teamId": 5
+      },
+      {
+        "teamName": "CSyD Keguay Toledo",
+        "url": "https://auf.org.uy/csd-keguay/",
+        "teamId": 6
+      },
+      {
+        "teamName": "CD Melilla SAD",
+        "url": "https://auf.org.uy/deportivo-melilla-sad/",
+        "teamId": 7
+      },
+      {
+        "teamName": "C Montevideo Boca Juniors ",
+        "url": "https://auf.org.uy/club-montevideo-boca-juniors/",
+        "teamId": 8
+      },
+      {
+        "teamName": "CA Nuevo Casabó",
+        "url": "https://auf.org.uy/club-atletico-nuevo-casabo/",
+        "teamId": 9
+      },
+      {
+        "teamName": "CSyD Paso de la Arena",
+        "url": "https://auf.org.uy/csyd-paso-de-la-arena/",
+        "teamId": 10
+      },
+      {
+        "teamName": "Club Real Montevideo",
+        "url": "https://auf.org.uy/club-real-montevideo/",
+        "teamId": 11
+      },
+      {
+        "teamName": "Rincón FC",
+        "url": "https://auf.org.uy/rincon-de-carrasco/",
+        "teamId": 12
+      },
+      {
+        "teamName": "CA Dilio Sport",
+        "url": "https://auf.org.uy/club-atletico-dilio-sport/",
+        "teamId": 4
+      }
+    ],
+    "matches": [
+      {
+        "matchId": 1,
+        "homeTeam": {
+          "teamName": "CSyD Keguay Toledo",
+          "url": "https://auf.org.uy/csd-keguay/",
+          "teamId": 6
+        },
+        "awayTeam": {
+          "teamName": "UD Estudiantes del Plata",
+          "url": "https://auf.org.uy/estudiantes-del-plata/",
+          "teamId": 5
+        },
+        "matchDate": "2024-09-05 20:30",
+        "homeGoals": 1,
+        "awayGoals": 0
+      },
+      {
+        "matchId": 2,
+        "homeTeam": {
+          "teamName": "CSyD Paso de la Arena",
+          "url": "https://auf.org.uy/csyd-paso-de-la-arena/",
+          "teamId": 10
+        },
+        "awayTeam": {
+          "teamName": "CD Melilla SAD",
+          "url": "https://auf.org.uy/deportivo-melilla-sad/",
+          "teamId": 7
+        },
+        "matchDate": "2024-09-05 21:20",
+        "homeGoals": 2,
+        "awayGoals": 1
+      },
+      {
+        "matchId": 3,
+        "homeTeam": {
+          "teamName": "Rincón FC",
+          "url": "https://auf.org.uy/rincon-de-carrasco/",
+          "teamId": 12
+        },
+        "awayTeam": {
+          "teamName": "C Montevideo Boca Juniors ",
+          "url": "https://auf.org.uy/club-montevideo-boca-juniors/",
+          "teamId": 8
+        },
+        "matchDate": "2024-09-08 20:08",
+        "homeGoals": 4,
+        "awayGoals": 0
+      },
+      {
+        "matchId": 4,
+        "homeTeam": {
+          "teamName": "CA Dilio Sport",
+          "url": "https://auf.org.uy/club-atletico-dilio-sport/",
+          "teamId": 4
+        },
+        "awayTeam": {
+          "teamName": "Deportivo CEM",
+          "url": "https://auf.org.uy/deportivo-cem/",
+          "teamId": 2
+        },
+        "matchDate": "2024-09-10 20:30",
+        "homeGoals": 0,
+        "awayGoals": 2
+      },
+      {
+        "matchId": 5,
+        "homeTeam": {
+          "teamName": "Academia FC",
+          "url": "https://auf.org.uy/academia-fc/",
+          "teamId": 1
+        },
+        "awayTeam": {
+          "teamName": "Club Real Montevideo",
+          "url": "https://auf.org.uy/club-real-montevideo/",
+          "teamId": 11
+        },
+        "matchDate": "2024-09-11 20:30",
+        "homeGoals": 0,
+        "awayGoals": 2
+      },
+      {
+        "matchId": 6,
+        "homeTeam": {
+          "teamName": "Deutscher FK",
+          "url": "https://auf.org.uy/deutscher-fk/",
+          "teamId": 3
+        },
+        "awayTeam": {
+          "teamName": "CA Nuevo Casabó",
+          "url": "https://auf.org.uy/club-atletico-nuevo-casabo/",
+          "teamId": 9
+        },
+        "matchDate": "2024-09-11 21:10",
+        "homeGoals": 7,
+        "awayGoals": 0
+      }
+    ]
+  }
+]

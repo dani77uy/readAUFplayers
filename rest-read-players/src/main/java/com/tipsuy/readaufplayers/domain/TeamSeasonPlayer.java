@@ -1,20 +1,16 @@
 package com.tipsuy.readaufplayers.domain;
 
+import com.tipsuy.readaufplayers.domain.pk.TeamPlayer;
 import java.io.Serial;
 import java.io.Serializable;
-
+import lombok.Data;
+import lombok.EqualsAndHashCode;
+import lombok.RequiredArgsConstructor;
+import lombok.ToString;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-import lombok.Data;
-import lombok.EqualsAndHashCode;
-import lombok.NoArgsConstructor;
-import org.springframework.lang.NonNull;
-import lombok.RequiredArgsConstructor;
-import lombok.ToString;
-
 @RequiredArgsConstructor
-@NoArgsConstructor
 @ToString
 @EqualsAndHashCode(callSuper = false)
 @Document(collection = "team-season-player")
@@ -25,13 +21,7 @@ public class TeamSeasonPlayer implements Serializable {
    private static final long serialVersionUID = 5178010682595418013L;
 
    @Id
-   private String id = null;
-
-   @NonNull
-   private Player player;
-
-   @NonNull
-   private Team team;
+   private TeamPlayer id;
 
    private byte totalGoals = 0;
 
