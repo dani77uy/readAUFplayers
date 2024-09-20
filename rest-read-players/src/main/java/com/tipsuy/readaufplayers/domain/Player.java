@@ -3,14 +3,18 @@ package com.tipsuy.readaufplayers.domain;
 import java.io.Serial;
 import java.io.Serializable;
 import java.time.LocalDate;
+
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.lang.NonNull;
+
+import com.fasterxml.jackson.annotation.JsonFormat;
+
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import lombok.ToString;
-import org.springframework.data.annotation.Id;
-import org.springframework.data.mongodb.core.mapping.Document;
-import org.springframework.lang.NonNull;
 
 @RequiredArgsConstructor
 @NoArgsConstructor
@@ -29,6 +33,7 @@ public class Player implements Serializable {
    @NonNull
    private String playerName;
 
+   @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd", timezone = "America/Montevideo")
    private LocalDate birthDate = null;
 
 }

@@ -3,9 +3,9 @@ package com.tipsuy.readaufplayers.dao;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 
-import com.tipsuy.readaufplayers.domain.Team;
+import com.tipsuy.readaufplayers.domain.Match;
 
 @Repository
-public interface TeamRepository extends MongoRepository<Team, Short> {
+public interface MatchRepository extends MongoRepository<Match, Long> {
 
 }

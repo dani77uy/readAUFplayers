@@ -1,19 +1,20 @@
 package com.tipsuy.readaufplayers.domain;
 
-import com.fasterxml.jackson.annotation.JsonFormat;
 import java.io.Serial;
 import java.io.Serializable;
-import java.time.LocalDateTime;
+import java.time.OffsetDateTime;
 import java.util.ArrayList;
 import java.util.List;
+
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.lang.NonNull;
+
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import lombok.ToString;
-import org.springframework.data.annotation.Id;
-import org.springframework.data.mongodb.core.mapping.Document;
-import org.springframework.lang.NonNull;
 
 @RequiredArgsConstructor
 @NoArgsConstructor
@@ -24,25 +25,33 @@ import org.springframework.lang.NonNull;
 public class Match implements Serializable {
 
    @Serial
-   private static final long serialVersionUID = -1743047731326953216L;
+   private static final long serialVersionUID = -1743047731326953217L;
 
    @Id
    private Long matchId;
 
    @NonNull
-   private Team homeTeam;
+   private Short homeTeam;
 
    @NonNull
-   private Team awayTeam;
+   private Short awayTeam;
 
    @NonNull
-   @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd HH:mm")
-   private LocalDateTime matchDate;
+   private OffsetDateTime matchDateTime;
+
+   private byte matchDay;
 
    private byte homeGoals;
 
    private byte awayGoals;
 
-   private List<PlayerExecutionDifference> matchPlayers = new ArrayList<>();
+   private final List<MatchPlayer> matchPlayers = new ArrayList<>();
 
+   public void addMatchPlayer(@NonNull final MatchPlayer matchPlayer) {
+      matchPlayers.add(matchPlayer);
+   }
+
+   public void addMatchPlayers(@NonNull final List<MatchPlayer> matchPlayer) {
+      matchPlayers.addAll(matchPlayer);
+   }
 }

@@ -7,15 +7,19 @@ import java.util.Collection;
 import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.List;
+
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.index.CompoundIndex;
+import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.lang.NonNull;
+
+import com.tipsuy.readaufplayers.domain.pk.TeamPlayer;
+
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import lombok.ToString;
-import org.springframework.data.annotation.Id;
-import org.springframework.data.mongodb.core.index.CompoundIndex;
-import org.springframework.data.mongodb.core.mapping.Document;
-import org.springframework.lang.NonNull;
 
 @RequiredArgsConstructor
 @NoArgsConstructor
@@ -27,7 +31,7 @@ import org.springframework.lang.NonNull;
 public class Season implements Serializable {
 
    @Serial
-   private static final long serialVersionUID = -6133393392430940896L;
+   private static final long serialVersionUID = -6133393392430940895L;
 
    @Id
    private Short id;
@@ -37,11 +41,11 @@ public class Season implements Serializable {
 
    private short year;
 
-   private final Collection<Team> teams = new HashSet<>();
+   private final Collection<Short> teams = new HashSet<>();
 
-   private final Collection<Match> matches = new HashSet<>();
+   private final Collection<Long> matches = new HashSet<>();
 
-   private final List<TeamSeasonPlayer> teamSeasonPlayersData = new ArrayList<>();
+   private final List<TeamPlayer> teamSeasonPlayersData = new ArrayList<>();
 
-   private final List<Execution> executions = new LinkedList<>();
+   private final List<String> executions = new LinkedList<>();
 }

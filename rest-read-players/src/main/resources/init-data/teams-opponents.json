@@ -1,0 +1,74 @@
+[
+  {
+    "teamId": 1,
+    "opponentId": 11,
+    "matchId": 5,
+    "seasonId": 1
+  },
+  {
+    "teamId": 2,
+    "opponentId": 4,
+    "matchId": 4,
+    "seasonId": 1
+  },
+  {
+    "teamId": 3,
+    "opponentId": 9,
+    "matchId": 6,
+    "seasonId": 1
+  },
+  {
+    "teamId": 4,
+    "opponentId": 2,
+    "matchId": 4,
+    "seasonId": 1
+  },
+  {
+    "teamId": 5,
+    "opponentId": 6,
+    "matchId": 1,
+    "seasonId": 1
+  },
+  {
+    "teamId": 6,
+    "opponentId": 5,
+    "matchId": 1,
+    "seasonId": 1
+  },
+  {
+    "teamId": 7,
+    "opponentId": 10,
+    "matchId": 2,
+    "seasonId": 1
+  },
+  {
+    "teamId": 8,
+    "opponentId": 12,
+    "matchId": 3,
+    "seasonId": 1
+  },
+  {
+    "teamId": 9,
+    "opponentId": 3,
+    "matchId": 6,
+    "seasonId": 1
+  },
+  {
+    "teamId": 10,
+    "opponentId": 7,
+    "matchId": 2,
+    "seasonId": 1
+  },
+  {
+    "teamId": 11,
+    "opponentId": 1,
+    "matchId": 5,
+    "seasonId": 1
+  },
+  {
+    "teamId": 12,
+    "opponentId": 8,
+    "matchId": 3,
+    "seasonId": 1
+  }
+]

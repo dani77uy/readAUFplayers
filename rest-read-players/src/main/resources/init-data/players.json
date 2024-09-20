@@ -1,0 +1,1262 @@
+[
+  {
+    "playerId": 1,
+    "playerName": "Fabio Sastre",
+    "birthDate": "2001-01-01"
+  },
+  {
+    "playerId": 2,
+    "playerName": "Franco Farías",
+    "birthDate": "2005-08-05"
+  },
+  {
+    "playerId": 3,
+    "playerName": "ENZO BARTOLIC",
+    "birthDate": "2005-01-06"
+  },
+  {
+    "playerId": 4,
+    "playerName": "PABLO MENESES",
+    "birthDate": "1994-08-26"
+  },
+  {
+    "playerId": 5,
+    "playerName": "Esteban Andrada",
+    "birthDate": "2000-07-20"
+  },
+  {
+    "playerId": 6,
+    "playerName": "Mateo Lima",
+    "birthDate": "2004-02-11"
+  },
+  {
+    "playerId": 7,
+    "playerName": "Alexis Calcagno",
+    "birthDate": "2003-12-08"
+  },
+  {
+    "playerId": 8,
+    "playerName": "ALAN FREITAS",
+    "birthDate": "2004-02-04"
+  },
+  {
+    "playerId": 9,
+    "playerName": "RAMIREZ A.",
+    "birthDate": null
+  },
+  {
+    "playerId": 10,
+    "playerName": "MATHIAS DE LOS SANTOS",
+    "birthDate": "1997-10-09"
+  },
+  {
+    "playerId": 11,
+    "playerName": "ALEXIS LEITES",
+    "birthDate": "2006-03-26"
+  },
+  {
+    "playerId": 12,
+    "playerName": "JONATHAN OLIVERA",
+    "birthDate": "2007-06-25"
+  },
+  {
+    "playerId": 13,
+    "playerName": "JUANIGNACIO CALZADA",
+    "birthDate": "2004-10-17"
+  },
+  {
+    "playerId": 14,
+    "playerName": "Thiago Paredez",
+    "birthDate": "2002-03-31"
+  },
+  {
+    "playerId": 15,
+    "playerName": "FACUNDO FAJARDO",
+    "birthDate": "2004-03-29"
+  },
+  {
+    "playerId": 16,
+    "playerName": "STEFANO ESPINOSA",
+    "birthDate": "2005-04-25"
+  },
+  {
+    "playerId": 17,
+    "playerName": "MATEO DENIS",
+    "birthDate": "2001-12-25"
+  },
+  {
+    "playerId": 18,
+    "playerName": "PIERRE JOURDAN",
+    "birthDate": "2004-05-09"
+  },
+  {
+    "playerId": 19,
+    "playerName": "Felipe Hernández",
+    "birthDate": "2001-12-13"
+  },
+  {
+    "playerId": 20,
+    "playerName": "Nahuel Herrero",
+    "birthDate": "2001-04-16"
+  },
+  {
+    "playerId": 21,
+    "playerName": "Santiago Amaro",
+    "birthDate": "2005-10-01"
+  },
+  {
+    "playerId": 22,
+    "playerName": "JONATHAN SILVA",
+    "birthDate": "1991-04-15"
+  },
+  {
+    "playerId": 23,
+    "playerName": "JHON MACHIN",
+    "birthDate": "1998-05-05"
+  },
+  {
+    "playerId": 24,
+    "playerName": "GASTON QUIROZ",
+    "birthDate": "1998-01-15"
+  },
+  {
+    "playerId": 25,
+    "playerName": "Fabio González",
+    "birthDate": "2005-07-14"
+  },
+  {
+    "playerId": 26,
+    "playerName": "JUAN PEREIRA",
+    "birthDate": "2004-04-27"
+  },
+  {
+    "playerId": 27,
+    "playerName": "MATTOS M.",
+    "birthDate": null
+  },
+  {
+    "playerId": 28,
+    "playerName": "NICOLAS OCAMPO",
+    "birthDate": "2001-06-03"
+  },
+  {
+    "playerId": 29,
+    "playerName": "PAULO LOPEZ",
+    "birthDate": "1994-07-27"
+  },
+  {
+    "playerId": 30,
+    "playerName": "Eduard Pintos",
+    "birthDate": "1999-12-23"
+  },
+  {
+    "playerId": 31,
+    "playerName": "JAVIER PUERTO",
+    "birthDate": "2002-12-23"
+  },
+  {
+    "playerId": 32,
+    "playerName": "Matías Ocampo",
+    "birthDate": "2002-10-29"
+  },
+  {
+    "playerId": 33,
+    "playerName": "Andy Latallada",
+    "birthDate": "2000-09-03"
+  },
+  {
+    "playerId": 34,
+    "playerName": "PABLO BRUNO",
+    "birthDate": "1989-10-11"
+  },
+  {
+    "playerId": 35,
+    "playerName": "WILLIAM PRIETO",
+    "birthDate": "1993-06-14"
+  },
+  {
+    "playerId": 36,
+    "playerName": "BUSQUETS J.",
+    "birthDate": null
+  },
+  {
+    "playerId": 37,
+    "playerName": "DANIEL MENCHACA",
+    "birthDate": "1971-03-15"
+  },
+  {
+    "playerId": 38,
+    "playerName": "DA G.",
+    "birthDate": null
+  },
+  {
+    "playerId": 39,
+    "playerName": "Joan Rosa",
+    "birthDate": "2004-07-11"
+  },
+  {
+    "playerId": 40,
+    "playerName": "FACAL N.",
+    "birthDate": null
+  },
+  {
+    "playerId": 41,
+    "playerName": "BRAGA M.",
+    "birthDate": null
+  },
+  {
+    "playerId": 42,
+    "playerName": "RODRIGUEZ D.",
+    "birthDate": null
+  },
+  {
+    "playerId": 43,
+    "playerName": "MONROY F.",
+    "birthDate": null
+  },
+  {
+    "playerId": 44,
+    "playerName": "BRAHIAN BERSAIS",
+    "birthDate": "1995-01-18"
+  },
+  {
+    "playerId": 45,
+    "playerName": "ANDY MAKUKA",
+    "birthDate": "1994-11-25"
+  },
+  {
+    "playerId": 46,
+    "playerName": "Brian Lapaz",
+    "birthDate": "2001-03-05"
+  },
+  {
+    "playerId": 47,
+    "playerName": "Santiago Cuña",
+    "birthDate": "2001-01-05"
+  },
+  {
+    "playerId": 48,
+    "playerName": "Álex Gómez",
+    "birthDate": "2003-08-21"
+  },
+  {
+    "playerId": 49,
+    "playerName": "Gianluca Colla",
+    "birthDate": "2001-01-09"
+  },
+  {
+    "playerId": 50,
+    "playerName": "LUCIANO SOTELO",
+    "birthDate": "2003-12-21"
+  },
+  {
+    "playerId": 51,
+    "playerName": "Facundo Barrett",
+    "birthDate": "2004-03-24"
+  },
+  {
+    "playerId": 52,
+    "playerName": "Gerard Duarte",
+    "birthDate": "2003-03-04"
+  },
+  {
+    "playerId": 53,
+    "playerName": "Guillermo Benítez",
+    "birthDate": "2004-05-18"
+  },
+  {
+    "playerId": 54,
+    "playerName": "Lucas García",
+    "birthDate": "2004-07-05"
+  },
+  {
+    "playerId": 55,
+    "playerName": "Nahuel Santana",
+    "birthDate": "1997-01-03"
+  },
+  {
+    "playerId": 56,
+    "playerName": "LUCAS MARTINEZ",
+    "birthDate": "1995-04-14"
+  },
+  {
+    "playerId": 57,
+    "playerName": "Christian Moreno",
+    "birthDate": "2003-02-13"
+  },
+  {
+    "playerId": 58,
+    "playerName": "ENZO MUÑOA",
+    "birthDate": "2002-02-14"
+  },
+  {
+    "playerId": 59,
+    "playerName": "Marcelo Álvarez",
+    "birthDate": "2003-12-24"
+  },
+  {
+    "playerId": 60,
+    "playerName": "ENZO BADIA",
+    "birthDate": "2003-04-24"
+  },
+  {
+    "playerId": 61,
+    "playerName": "Rodrigo Campanile",
+    "birthDate": "1995-07-30"
+  },
+  {
+    "playerId": 62,
+    "playerName": "Itan Amor",
+    "birthDate": "2004-01-19"
+  },
+  {
+    "playerId": 63,
+    "playerName": "SEBASTIAN RECOBA",
+    "birthDate": "1999-07-30"
+  },
+  {
+    "playerId": 64,
+    "playerName": "Nicolás Moliterno",
+    "birthDate": "2002-10-14"
+  },
+  {
+    "playerId": 65,
+    "playerName": "DAMIAN PALAVES",
+    "birthDate": "1993-02-01"
+  },
+  {
+    "playerId": 66,
+    "playerName": "Lucas Reggiardo",
+    "birthDate": "2003-06-01"
+  },
+  {
+    "playerId": 67,
+    "playerName": "MARCOS PENA",
+    "birthDate": "1996-03-07"
+  },
+  {
+    "playerId": 68,
+    "playerName": "Zinedine Fischer",
+    "birthDate": "2001-02-23"
+  },
+  {
+    "playerId": 69,
+    "playerName": "Ángel Lorenzo",
+    "birthDate": "2002-07-11"
+  },
+  {
+    "playerId": 70,
+    "playerName": "NAHUEL LAVITOLA",
+    "birthDate": "2000-05-14"
+  },
+  {
+    "playerId": 71,
+    "playerName": "NATANAEL CARBALLAL",
+    "birthDate": "2004-07-31"
+  },
+  {
+    "playerId": 72,
+    "playerName": "Sebastián López",
+    "birthDate": "2002-03-18"
+  },
+  {
+    "playerId": 73,
+    "playerName": "DIEGO SILVEIRA",
+    "birthDate": "2004-01-03"
+  },
+  {
+    "playerId": 74,
+    "playerName": "SILVIO MARTINEZ",
+    "birthDate": "2003-08-03"
+  },
+  {
+    "playerId": 75,
+    "playerName": "Santiago Nemeth",
+    "birthDate": "2003-09-05"
+  },
+  {
+    "playerId": 76,
+    "playerName": "Gastón Sacco",
+    "birthDate": "2000-03-28"
+  },
+  {
+    "playerId": 77,
+    "playerName": "MATEO FONTAINE",
+    "birthDate": "2006-09-04"
+  },
+  {
+    "playerId": 78,
+    "playerName": "Franco Laino",
+    "birthDate": "2001-03-13"
+  },
+  {
+    "playerId": 79,
+    "playerName": "Luis Correa",
+    "birthDate": "2001-06-29"
+  },
+  {
+    "playerId": 80,
+    "playerName": "Rodrigo Sosa",
+    "birthDate": "1996-12-14"
+  },
+  {
+    "playerId": 81,
+    "playerName": "Manuel Altez",
+    "birthDate": "2005-04-10"
+  },
+  {
+    "playerId": 82,
+    "playerName": "MATEO FERNANDEZ",
+    "birthDate": "2006-04-06"
+  },
+  {
+    "playerId": 83,
+    "playerName": "PAOLO GONZALEZ",
+    "birthDate": "2004-12-13"
+  },
+  {
+    "playerId": 84,
+    "playerName": "BRIAN SEQUEIRA",
+    "birthDate": "2001-10-12"
+  },
+  {
+    "playerId": 85,
+    "playerName": "ALEXANDER CABEZA",
+    "birthDate": "2002-07-23"
+  },
+  {
+    "playerId": 86,
+    "playerName": "Nicolás Correa",
+    "birthDate": "1991-07-11"
+  },
+  {
+    "playerId": 87,
+    "playerName": "Bruno Vega",
+    "birthDate": "2005-01-07"
+  },
+  {
+    "playerId": 88,
+    "playerName": "Gerónimo Blanco",
+    "birthDate": "2004-01-14"
+  },
+  {
+    "playerId": 89,
+    "playerName": "Enzo Sánchez",
+    "birthDate": "1996-04-01"
+  },
+  {
+    "playerId": 90,
+    "playerName": "DAMIAN BEISSO",
+    "birthDate": "2002-02-10"
+  },
+  {
+    "playerId": 91,
+    "playerName": "FACUNDO ESTEFAN",
+    "birthDate": "1997-03-10"
+  },
+  {
+    "playerId": 92,
+    "playerName": "Iñaki Gude",
+    "birthDate": "2005-04-06"
+  },
+  {
+    "playerId": 93,
+    "playerName": "Santiago Nappi",
+    "birthDate": "2003-04-06"
+  },
+  {
+    "playerId": 94,
+    "playerName": "Germán Cardozo",
+    "birthDate": "2004-01-27"
+  },
+  {
+    "playerId": 95,
+    "playerName": "Cristian Rodríguez",
+    "birthDate": "2005-02-14"
+  },
+  {
+    "playerId": 96,
+    "playerName": "Facundo Sosa",
+    "birthDate": "2001-08-29"
+  },
+  {
+    "playerId": 97,
+    "playerName": "Bruno Rodríguez",
+    "birthDate": "2004-09-06"
+  },
+  {
+    "playerId": 98,
+    "playerName": "Alejandro Monzón",
+    "birthDate": "2000-02-18"
+  },
+  {
+    "playerId": 99,
+    "playerName": "Cristofer Barboza",
+    "birthDate": "2003-03-13"
+  },
+  {
+    "playerId": 100,
+    "playerName": "ROSA C.",
+    "birthDate": null
+  },
+  {
+    "playerId": 101,
+    "playerName": "Richard Rodríguez",
+    "birthDate": "2000-06-30"
+  },
+  {
+    "playerId": 102,
+    "playerName": "Juan Demuro",
+    "birthDate": "2003-11-16"
+  },
+  {
+    "playerId": 103,
+    "playerName": "Valentín Sebben",
+    "birthDate": "2005-03-12"
+  },
+  {
+    "playerId": 104,
+    "playerName": "CRISTHIAN LOPEZ",
+    "birthDate": "1994-01-16"
+  },
+  {
+    "playerId": 105,
+    "playerName": "Néstor Aguilar",
+    "birthDate": "2002-03-24"
+  },
+  {
+    "playerId": 106,
+    "playerName": "Tomás Mancini",
+    "birthDate": "2003-09-22"
+  },
+  {
+    "playerId": 107,
+    "playerName": "Ignacio Ojeda",
+    "birthDate": "1999-02-03"
+  },
+  {
+    "playerId": 108,
+    "playerName": "Cristian Lima",
+    "birthDate": "2000-04-18"
+  },
+  {
+    "playerId": 109,
+    "playerName": "Vicente Nion",
+    "birthDate": "2003-01-11"
+  },
+  {
+    "playerId": 110,
+    "playerName": "JHONATAN OCAMPO",
+    "birthDate": "1996-06-20"
+  },
+  {
+    "playerId": 111,
+    "playerName": "Augusto Cáceres",
+    "birthDate": "1996-09-29"
+  },
+  {
+    "playerId": 112,
+    "playerName": "Marcos Cesaro",
+    "birthDate": "2000-03-10"
+  },
+  {
+    "playerId": 113,
+    "playerName": "Cosme Lima",
+    "birthDate": "1998-02-22"
+  },
+  {
+    "playerId": 114,
+    "playerName": "Paul Gómez",
+    "birthDate": "1996-08-12"
+  },
+  {
+    "playerId": 115,
+    "playerName": "Alan Escudero",
+    "birthDate": "2001-03-01"
+  },
+  {
+    "playerId": 116,
+    "playerName": "EDJO'O D.",
+    "birthDate": null
+  },
+  {
+    "playerId": 117,
+    "playerName": "Santiago Silva",
+    "birthDate": "2001-02-07"
+  },
+  {
+    "playerId": 118,
+    "playerName": "Anthony Rodríguez",
+    "birthDate": "2004-02-07"
+  },
+  {
+    "playerId": 119,
+    "playerName": "MAXIMILIANO BENITEZ",
+    "birthDate": "2004-07-20"
+  },
+  {
+    "playerId": 120,
+    "playerName": "Jacinto de Lizarza",
+    "birthDate": "2003-08-04"
+  },
+  {
+    "playerId": 121,
+    "playerName": "MARTIN MONDINO",
+    "birthDate": "1999-06-27"
+  },
+  {
+    "playerId": 122,
+    "playerName": "LEONARDO CORREA",
+    "birthDate": "1998-07-13"
+  },
+  {
+    "playerId": 123,
+    "playerName": "Facundo Gómez",
+    "birthDate": "2004-08-11"
+  },
+  {
+    "playerId": 124,
+    "playerName": "Brian Melo",
+    "birthDate": "2004-06-06"
+  },
+  {
+    "playerId": 125,
+    "playerName": "Lucas Pintos",
+    "birthDate": "2002-10-08"
+  },
+  {
+    "playerId": 126,
+    "playerName": "Facundo Torres",
+    "birthDate": "2004-10-09"
+  },
+  {
+    "playerId": 127,
+    "playerName": "Ignacio Quefau",
+    "birthDate": "2002-04-26"
+  },
+  {
+    "playerId": 128,
+    "playerName": "LUCAS AMARAL",
+    "birthDate": "2002-03-02"
+  },
+  {
+    "playerId": 129,
+    "playerName": "RODRIGO PEREIRA",
+    "birthDate": "2002-07-02"
+  },
+  {
+    "playerId": 130,
+    "playerName": "Washington Fernández",
+    "birthDate": "1992-06-18"
+  },
+  {
+    "playerId": 131,
+    "playerName": "FRONES M.",
+    "birthDate": null
+  },
+  {
+    "playerId": 132,
+    "playerName": "Deibys Rocha",
+    "birthDate": "1993-10-11"
+  },
+  {
+    "playerId": 133,
+    "playerName": "GARY BUSTOS",
+    "birthDate": "2003-10-20"
+  },
+  {
+    "playerId": 134,
+    "playerName": "Inti Bayarres",
+    "birthDate": "2004-12-17"
+  },
+  {
+    "playerId": 135,
+    "playerName": "NAHUEL RAMOS",
+    "birthDate": "2000-12-11"
+  },
+  {
+    "playerId": 136,
+    "playerName": "DELIAN PINELA",
+    "birthDate": "2000-06-29"
+  },
+  {
+    "playerId": 137,
+    "playerName": "Álvaro López",
+    "birthDate": "2001-04-14"
+  },
+  {
+    "playerId": 138,
+    "playerName": "Áxel Rodríguez",
+    "birthDate": "2002-05-13"
+  },
+  {
+    "playerId": 139,
+    "playerName": "LAUTARO GUIDO",
+    "birthDate": "2004-03-12"
+  },
+  {
+    "playerId": 140,
+    "playerName": "AXEL TEXEIRA",
+    "birthDate": "2005-02-25"
+  },
+  {
+    "playerId": 141,
+    "playerName": "NICOLAS MACHADO",
+    "birthDate": "2001-10-29"
+  },
+  {
+    "playerId": 142,
+    "playerName": "MARIO DELGADO",
+    "birthDate": "1989-09-25"
+  },
+  {
+    "playerId": 143,
+    "playerName": "Richard Acosta",
+    "birthDate": "2001-03-28"
+  },
+  {
+    "playerId": 144,
+    "playerName": "CABRERA M.",
+    "birthDate": null
+  },
+  {
+    "playerId": 145,
+    "playerName": "BRUNO BRUM",
+    "birthDate": "1996-11-27"
+  },
+  {
+    "playerId": 146,
+    "playerName": "AGUSTIN CAMPI",
+    "birthDate": "2003-10-14"
+  },
+  {
+    "playerId": 147,
+    "playerName": "JHON CORREA",
+    "birthDate": "1996-11-07"
+  },
+  {
+    "playerId": 148,
+    "playerName": "Mauro Ledesma",
+    "birthDate": "2000-06-05"
+  },
+  {
+    "playerId": 149,
+    "playerName": "Damián Álvez",
+    "birthDate": "1999-05-06"
+  },
+  {
+    "playerId": 150,
+    "playerName": "Rodrigo Hernández",
+    "birthDate": "2000-07-17"
+  },
+  {
+    "playerId": 151,
+    "playerName": "LAUTARO GONZALEZ",
+    "birthDate": "2000-05-04"
+  },
+  {
+    "playerId": 152,
+    "playerName": "IGNACIO ROMERO",
+    "birthDate": "2000-02-06"
+  },
+  {
+    "playerId": 153,
+    "playerName": "EZEQUIEL OVIEDO",
+    "birthDate": "2004-01-09"
+  },
+  {
+    "playerId": 154,
+    "playerName": "ANDRADA A.",
+    "birthDate": null
+  },
+  {
+    "playerId": 155,
+    "playerName": "Luis Suárez",
+    "birthDate": "2001-03-17"
+  },
+  {
+    "playerId": 156,
+    "playerName": "JESUS FURTADO",
+    "birthDate": "1999-10-21"
+  },
+  {
+    "playerId": 157,
+    "playerName": "HEBERT CARDOZO",
+    "birthDate": "1997-08-27"
+  },
+  {
+    "playerId": 158,
+    "playerName": "SANCHEZ M.",
+    "birthDate": null
+  },
+  {
+    "playerId": 159,
+    "playerName": "FERNANDEZ M.",
+    "birthDate": null
+  },
+  {
+    "playerId": 160,
+    "playerName": "BRIAN FAGUNDEZ",
+    "birthDate": "1994-12-04"
+  },
+  {
+    "playerId": 161,
+    "playerName": "Luciano Acuña",
+    "birthDate": "2000-09-08"
+  },
+  {
+    "playerId": 162,
+    "playerName": "RODRIGO MARTINEZ",
+    "birthDate": "2004-05-04"
+  },
+  {
+    "playerId": 163,
+    "playerName": "LLANO E.",
+    "birthDate": null
+  },
+  {
+    "playerId": 164,
+    "playerName": "KADY SILVA",
+    "birthDate": "2001-10-11"
+  },
+  {
+    "playerId": 165,
+    "playerName": "FEDERICO SILVA",
+    "birthDate": "1971-04-18"
+  },
+  {
+    "playerId": 166,
+    "playerName": "ALBERTO MARTINEZ",
+    "birthDate": "1996-07-26"
+  },
+  {
+    "playerId": 167,
+    "playerName": "Áxel Pechi",
+    "birthDate": "2002-03-02"
+  },
+  {
+    "playerId": 168,
+    "playerName": "EMILIANO SUAREZ",
+    "birthDate": "1997-10-26"
+  },
+  {
+    "playerId": 169,
+    "playerName": "FACUNDO IFRAN",
+    "birthDate": "2004-10-24"
+  },
+  {
+    "playerId": 170,
+    "playerName": "SCHUBERT CARDOZO",
+    "birthDate": "1994-07-14"
+  },
+  {
+    "playerId": 171,
+    "playerName": "DE SOUSA M.",
+    "birthDate": null
+  },
+  {
+    "playerId": 172,
+    "playerName": "MICHAEL OLIVERA",
+    "birthDate": "1999-03-19"
+  },
+  {
+    "playerId": 173,
+    "playerName": "MICHEL CASTRO",
+    "birthDate": "1991-12-04"
+  },
+  {
+    "playerId": 174,
+    "playerName": "Pablo Rodríguez",
+    "birthDate": "1999-05-14"
+  },
+  {
+    "playerId": 175,
+    "playerName": "CAETANO A.",
+    "birthDate": null
+  },
+  {
+    "playerId": 176,
+    "playerName": "AGUIAR M.",
+    "birthDate": null
+  },
+  {
+    "playerId": 177,
+    "playerName": "CASTRO N.",
+    "birthDate": null
+  },
+  {
+    "playerId": 178,
+    "playerName": "PABLO BARBOZA",
+    "birthDate": "2002-05-19"
+  },
+  {
+    "playerId": 179,
+    "playerName": "PABLO PIREZ",
+    "birthDate": "1997-11-04"
+  },
+  {
+    "playerId": 180,
+    "playerName": "MATIAS DE PAZOS",
+    "birthDate": "1997-08-09"
+  },
+  {
+    "playerId": 181,
+    "playerName": "Nahuel Sosa",
+    "birthDate": "2003-06-12"
+  },
+  {
+    "playerId": 182,
+    "playerName": "GABRIEL SOSA",
+    "birthDate": "2001-09-06"
+  },
+  {
+    "playerId": 183,
+    "playerName": "LOPEZ J.",
+    "birthDate": null
+  },
+  {
+    "playerId": 184,
+    "playerName": "DAVID SANTANA",
+    "birthDate": "2003-09-03"
+  },
+  {
+    "playerId": 185,
+    "playerName": "JESLIAN SELTNERCICH",
+    "birthDate": "2002-11-22"
+  },
+  {
+    "playerId": 186,
+    "playerName": "Mauricio Pagliari",
+    "birthDate": "2000-04-01"
+  },
+  {
+    "playerId": 187,
+    "playerName": "JAIRO DE LA PAZ",
+    "birthDate": "1994-06-02"
+  },
+  {
+    "playerId": 188,
+    "playerName": "PIREZ W.",
+    "birthDate": null
+  },
+  {
+    "playerId": 189,
+    "playerName": "ROBERT CARMONA",
+    "birthDate": "1962-04-29"
+  },
+  {
+    "playerId": 190,
+    "playerName": "Walter Fernández",
+    "birthDate": "1988-02-06"
+  },
+  {
+    "playerId": 191,
+    "playerName": "Lautaro Aguete",
+    "birthDate": "2000-02-22"
+  },
+  {
+    "playerId": 192,
+    "playerName": "Christian Marín",
+    "birthDate": "1988-06-01"
+  },
+  {
+    "playerId": 193,
+    "playerName": "BRUNO SOSA",
+    "birthDate": "1999-09-30"
+  },
+  {
+    "playerId": 194,
+    "playerName": "GUILLERMO APPELT",
+    "birthDate": "1989-04-12"
+  },
+  {
+    "playerId": 195,
+    "playerName": "Mathías Frugoni",
+    "birthDate": "1999-05-05"
+  },
+  {
+    "playerId": 196,
+    "playerName": "Sergio Souza",
+    "birthDate": "1985-05-06"
+  },
+  {
+    "playerId": 197,
+    "playerName": "Sebastián Barreto",
+    "birthDate": "2001-09-29"
+  },
+  {
+    "playerId": 198,
+    "playerName": "FEDERICO FERNANDEZ",
+    "birthDate": "1999-05-16"
+  },
+  {
+    "playerId": 199,
+    "playerName": "EDMUNDO SORRENTI",
+    "birthDate": "2004-04-08"
+  },
+  {
+    "playerId": 200,
+    "playerName": "DARWIN AGUILAR",
+    "birthDate": "2004-09-18"
+  },
+  {
+    "playerId": 201,
+    "playerName": "Santiago Viera",
+    "birthDate": "2004-02-25"
+  },
+  {
+    "playerId": 202,
+    "playerName": "Rodrigo Vidal",
+    "birthDate": "2000-08-11"
+  },
+  {
+    "playerId": 203,
+    "playerName": "Ignacio González",
+    "birthDate": "2004-09-15"
+  },
+  {
+    "playerId": 204,
+    "playerName": "BENJAMIN ALVAREZ",
+    "birthDate": "2003-09-16"
+  },
+  {
+    "playerId": 205,
+    "playerName": "Isaías Toloza",
+    "birthDate": "2000-03-25"
+  },
+  {
+    "playerId": 206,
+    "playerName": "MAXIMILIANO BARRIOS",
+    "birthDate": "1999-09-22"
+  },
+  {
+    "playerId": 207,
+    "playerName": "JUAN PEREZ",
+    "birthDate": "2004-07-17"
+  },
+  {
+    "playerId": 208,
+    "playerName": "Kevin Celle",
+    "birthDate": "2004-05-24"
+  },
+  {
+    "playerId": 209,
+    "playerName": "RODRIGUEZ J.",
+    "birthDate": null
+  },
+  {
+    "playerId": 210,
+    "playerName": "Facundo Portillo",
+    "birthDate": "2002-03-10"
+  },
+  {
+    "playerId": 211,
+    "playerName": "TIAGO WILDNER",
+    "birthDate": "2002-12-09"
+  },
+  {
+    "playerId": 212,
+    "playerName": "Ignacio Castillo",
+    "birthDate": "2003-03-10"
+  },
+  {
+    "playerId": 213,
+    "playerName": "Agustín Casco",
+    "birthDate": "2000-09-01"
+  },
+  {
+    "playerId": 214,
+    "playerName": "Cristian Ferreira",
+    "birthDate": "1998-01-15"
+  },
+  {
+    "playerId": 215,
+    "playerName": "Jonathan Baeza",
+    "birthDate": "2002-05-30"
+  },
+  {
+    "playerId": 216,
+    "playerName": "Jorge Olivera",
+    "birthDate": "2000-06-28"
+  },
+  {
+    "playerId": 217,
+    "playerName": "David Santo",
+    "birthDate": "2003-04-17"
+  },
+  {
+    "playerId": 218,
+    "playerName": "José Aragonez",
+    "birthDate": "2004-05-29"
+  },
+  {
+    "playerId": 219,
+    "playerName": "Eric Gutiérrez",
+    "birthDate": "2005-05-10"
+  },
+  {
+    "playerId": 220,
+    "playerName": "Adrián Da Fonte",
+    "birthDate": "2000-07-20"
+  },
+  {
+    "playerId": 221,
+    "playerName": "Facundo Sosa",
+    "birthDate": "2000-07-10"
+  },
+  {
+    "playerId": 222,
+    "playerName": "Luca Araújo",
+    "birthDate": "2004-02-02"
+  },
+  {
+    "playerId": 223,
+    "playerName": "Luciano Olivera",
+    "birthDate": "2000-03-03"
+  },
+  {
+    "playerId": 224,
+    "playerName": "DEMIAN CUNEO",
+    "birthDate": "2002-11-07"
+  },
+  {
+    "playerId": 225,
+    "playerName": "Walter Barreto",
+    "birthDate": "2000-12-21"
+  },
+  {
+    "playerId": 226,
+    "playerName": "Joe Arreche",
+    "birthDate": "2004-09-11"
+  },
+  {
+    "playerId": 227,
+    "playerName": "Gerónimo Raviales",
+    "birthDate": "2002-04-29"
+  },
+  {
+    "playerId": 228,
+    "playerName": "CHRISTIAN NUÑEZ",
+    "birthDate": "2000-08-08"
+  },
+  {
+    "playerId": 229,
+    "playerName": "Moisés Tourreilles",
+    "birthDate": "2001-04-17"
+  },
+  {
+    "playerId": 230,
+    "playerName": "Juan Dorta",
+    "birthDate": "2004-11-21"
+  },
+  {
+    "playerId": 231,
+    "playerName": "Lucas Pérez",
+    "birthDate": "2003-02-23"
+  },
+  {
+    "playerId": 232,
+    "playerName": "MATEO RAMIREZ",
+    "birthDate": "1994-10-05"
+  },
+  {
+    "playerId": 233,
+    "playerName": "Pablo Correa",
+    "birthDate": "2001-01-26"
+  },
+  {
+    "playerId": 234,
+    "playerName": "Iván Pérez",
+    "birthDate": "2001-05-31"
+  },
+  {
+    "playerId": 235,
+    "playerName": "MATIAS OLIVERA",
+    "birthDate": "1998-07-05"
+  },
+  {
+    "playerId": 236,
+    "playerName": "Hernán de León",
+    "birthDate": "1997-06-16"
+  },
+  {
+    "playerId": 237,
+    "playerName": "Agustín de los Santos",
+    "birthDate": "2002-10-11"
+  },
+  {
+    "playerId": 238,
+    "playerName": "Martín Cardozo",
+    "birthDate": "1986-06-25"
+  },
+  {
+    "playerId": 239,
+    "playerName": "Sebastián Burgos",
+    "birthDate": "1998-04-10"
+  },
+  {
+    "playerId": 240,
+    "playerName": "Santiago Laport",
+    "birthDate": "1995-04-22"
+  },
+  {
+    "playerId": 241,
+    "playerName": "Fernando Sellanes",
+    "birthDate": "1990-04-23"
+  },
+  {
+    "playerId": 242,
+    "playerName": "DANIEL CABRERA",
+    "birthDate": "1997-07-15"
+  },
+  {
+    "playerId": 243,
+    "playerName": "Álvaro Fernández",
+    "birthDate": "2000-03-21"
+  },
+  {
+    "playerId": 244,
+    "playerName": "OSCAR RUSSO",
+    "birthDate": "1990-05-06"
+  },
+  {
+    "playerId": 245,
+    "playerName": "Facundo Greno",
+    "birthDate": "2001-01-15"
+  },
+  {
+    "playerId": 246,
+    "playerName": "Juan Vanoli",
+    "birthDate": "2003-02-12"
+  },
+  {
+    "playerId": 247,
+    "playerName": "Nahuel de Armas",
+    "birthDate": "2000-06-22"
+  },
+  {
+    "playerId": 248,
+    "playerName": "Álvaro Galiano",
+    "birthDate": "2003-04-22"
+  },
+  {
+    "playerId": 249,
+    "playerName": "NICOLAS MENDEZ",
+    "birthDate": "1998-09-17"
+  },
+  {
+    "playerId": 250,
+    "playerName": "PATRICIO TORRES",
+    "birthDate": "1996-03-14"
+  },
+  {
+    "playerId": 251,
+    "playerName": "MATHIAS ACOSTA",
+    "birthDate": "1996-07-07"
+  },
+  {
+    "playerId": 252,
+    "playerName": "FERNANDO PENAS",
+    "birthDate": "2001-01-18"
+  }
+]

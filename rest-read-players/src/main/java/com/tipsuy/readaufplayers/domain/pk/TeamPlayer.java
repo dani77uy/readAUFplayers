@@ -1,9 +1,10 @@
 package com.tipsuy.readaufplayers.domain.pk;
 
-import com.tipsuy.readaufplayers.domain.Player;
-import com.tipsuy.readaufplayers.domain.Team;
 import java.io.Serial;
 import java.io.Serializable;
+
+import com.tipsuy.readaufplayers.domain.Player;
+import com.tipsuy.readaufplayers.domain.Team;
 
 public record TeamPlayer(Team team, Player player) implements Serializable {
 

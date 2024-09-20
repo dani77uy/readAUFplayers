@@ -5,6 +5,7 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
+import com.tipsuy.readaufplayers.dao.SequenceRepository;
 import com.tipsuy.readaufplayers.dao.TeamRepository;
 import com.tipsuy.readaufplayers.domain.Team;
 import com.tipsuy.readaufplayers.domain.dto.TeamDTO;
@@ -16,6 +17,8 @@ import lombok.RequiredArgsConstructor;
 public class TeamService {
 
    private final TeamRepository teamRepository;
+
+   private final SequenceRepository sequenceRepository;
 
    public Team add(final TeamDTO teamDTO) {
       return teamRepository.save(map(teamDTO));
@@ -33,8 +36,9 @@ public class TeamService {
       return teamRepository.findAll();
    }
 
-   private static Team map(final TeamDTO teamDTO) {
+   private Team map(final TeamDTO teamDTO) {
       final Team team = new Team();
+      team.setTeamId(sequenceRepository.getNextSequenceValue("teams").shortValue());
       team.setTeamName(teamDTO.name());
       team.setUrl(teamDTO.url());
       return team;

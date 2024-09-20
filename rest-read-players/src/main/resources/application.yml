@@ -1,12 +1,10 @@
 spring:
   application:
     name: rest-read-players
-  data:
-    mongodb:
-      database: "read-auf-players"
-      uri: "mongodb://localhost:27017"
-      username: "daniel"
-      password: "aufdbpassword"
+  jackson:
+    time-zone: "America/Montevideo"
+    serialization:
+      write-dates-as-timestamps: false
 server:
   port: 9774
   servlet:

@@ -1,0 +1,110 @@
+[
+  {
+    "matchId": 1,
+    "homeTeam": 6,
+    "awayTeam": 5,
+    "matchDateTime": "2024-09-05 20:30",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "matchDay": 1
+  },
+  {
+    "matchId": 2,
+    "homeTeam": 10,
+    "awayTeam": 7,
+    "matchDateTime": "2024-09-05 21:20",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "matchDay": 1
+  },
+  {
+    "matchId": 3,
+    "homeTeam": 12,
+    "awayTeam": 8,
+    "matchDateTime": "2024-09-08 20:08",
+    "homeGoals": 4,
+    "awayGoals": 0,
+    "matchDay": 1
+  },
+  {
+    "matchId": 4,
+    "homeTeam": 4,
+    "awayTeam": 2,
+    "matchDateTime": "2024-09-10 20:30",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "matchDay": 1
+  },
+  {
+    "matchId": 5,
+    "homeTeam": 1,
+    "awayTeam": 11,
+    "matchDateTime": "2024-09-11 20:30",
+    "homeGoals": 0,
+    "awayGoals": 2,
+    "matchDay": 1
+  },
+  {
+    "matchId": 6,
+    "homeTeam": 3,
+    "awayTeam": 9,
+    "matchDateTime": "2024-09-11 21:10",
+    "homeGoals": 7,
+    "awayGoals": 0,
+    "matchDay": 1
+  },
+  {
+    "matchId": 7,
+    "homeTeam": 9,
+    "awayTeam": 4,
+    "matchDateTime": "2024-09-14 19:30",
+    "homeGoals": 0,
+    "awayGoals": 7,
+    "matchDay": 2
+  },
+  {
+    "matchId": 8,
+    "homeTeam": 7,
+    "awayTeam": 12,
+    "matchDateTime": "2024-09-15 14:00",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "matchDay": 2
+  },
+  {
+    "matchId": 9,
+    "homeTeam": 11,
+    "awayTeam": 6,
+    "matchDateTime": "2024-09-15 20:00",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "matchDay": 2
+  },
+  {
+    "matchId": 10,
+    "homeTeam": 5,
+    "awayTeam": 3,
+    "matchDateTime": "2024-09-15 17:00",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "matchDay": 2
+  },
+  {
+    "matchId": 11,
+    "homeTeam": 2,
+    "awayTeam": 10,
+    "matchDateTime": "2024-09-16 21:15",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "matchDay": 2
+  },
+  {
+    "matchId": 12,
+    "homeTeam": 8,
+    "awayTeam": 1,
+    "matchDateTime": "2024-09-17 20:00",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "matchDay": 2
+  }
+]

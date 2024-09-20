@@ -1,0 +1,62 @@
+[
+  {
+    "teamName": "Academia FC",
+    "url": "https://auf.org.uy/academia-fc/",
+    "teamId": 1
+  },
+  {
+    "teamName": "Deportivo CEM",
+    "url": "https://auf.org.uy/deportivo-cem/",
+    "teamId": 2
+  },
+  {
+    "teamName": "Deutscher FK",
+    "url": "https://auf.org.uy/deutscher-fk/",
+    "teamId": 3
+  },
+  {
+    "teamName": "UD Estudiantes del Plata",
+    "url": "https://auf.org.uy/estudiantes-del-plata/",
+    "teamId": 5
+  },
+  {
+    "teamName": "CSyD Keguay Toledo",
+    "url": "https://auf.org.uy/csd-keguay/",
+    "teamId": 6
+  },
+  {
+    "teamName": "CD Melilla SAD",
+    "url": "https://auf.org.uy/deportivo-melilla-sad/",
+    "teamId": 7
+  },
+  {
+    "teamName": "C Montevideo Boca Juniors ",
+    "url": "https://auf.org.uy/club-montevideo-boca-juniors/",
+    "teamId": 8
+  },
+  {
+    "teamName": "CA Nuevo Casabó",
+    "url": "https://auf.org.uy/club-atletico-nuevo-casabo/",
+    "teamId": 9
+  },
+  {
+    "teamName": "CSyD Paso de la Arena",
+    "url": "https://auf.org.uy/csyd-paso-de-la-arena/",
+    "teamId": 10
+  },
+  {
+    "teamName": "Club Real Montevideo",
+    "url": "https://auf.org.uy/club-real-montevideo/",
+    "teamId": 11
+  },
+  {
+    "teamName": "Rincón FC",
+    "url": "https://auf.org.uy/rincon-de-carrasco/",
+    "teamId": 12
+  },
+  {
+    "teamName": "CA Dilio Sport",
+    "url": "https://auf.org.uy/club-atletico-dilio-sport/",
+    "teamId": 4
+  }
+]

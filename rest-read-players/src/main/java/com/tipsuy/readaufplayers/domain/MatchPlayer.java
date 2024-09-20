@@ -6,7 +6,7 @@ import java.io.Serializable;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-import com.tipsuy.readaufplayers.domain.pk.TeamPlayer;
+import com.tipsuy.readaufplayers.domain.pk.MatchPlayerPK;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;
@@ -16,20 +16,17 @@ import lombok.ToString;
 @RequiredArgsConstructor
 @ToString
 @EqualsAndHashCode(callSuper = false)
-@Document(collection = "team-season-player")
+@Document(collection = "match-players")
 @Data
-public class TeamSeasonPlayer implements Serializable {
+public class MatchPlayer implements Serializable {
 
    @Serial
-   private static final long serialVersionUID = 5178010682595418014L;
+   private static final long serialVersionUID = 6773778369322277788L;
 
    @Id
-   private TeamPlayer id;
+   private MatchPlayerPK matchPlayerPK;
 
-   private byte totalGoals = 0;
+   private byte minutesPlayed;
 
-   private short totalMinutes = 0;
-
-   private byte totalMatches = 0;
-
+   private byte goals;
 }
