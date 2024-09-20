@@ -1,5 +1,7 @@
 package com.tipsuy.readaufplayers.config;
 
+import com.tipsuy.readaufplayers.domain.Player;
+import com.tipsuy.readaufplayers.domain.serializer.PlayerDeserializer;
 import java.time.Clock;
 import java.time.ZoneId;
 import java.util.TimeZone;
@@ -23,6 +25,8 @@ import com.tipsuy.readaufplayers.domain.serializer.Modifier;
 public class GlobalConfig {
 
    public static final String DATETIME_FORMAT = "yyyy-MM-dd HH:mm";
+
+   public static final String DATE_FORMAT = "yyyy-MM-dd";
 
    private final String timeZone;
 
@@ -49,6 +53,7 @@ public class GlobalConfig {
       simpleModuleSerializer.setSerializerModifier(new Modifier());
       simpleModuleSerializer.addDeserializer(ExecutionPlayer.class, new ExecutionPlayerDeserializer());
       simpleModuleSerializer.addDeserializer(Match.class, new MatchDeserializer(timeZone));
+      simpleModuleSerializer.addDeserializer(Player.class, new PlayerDeserializer(timeZone));
       objectMapper.registerModule(simpleModuleSerializer);
    }
 }

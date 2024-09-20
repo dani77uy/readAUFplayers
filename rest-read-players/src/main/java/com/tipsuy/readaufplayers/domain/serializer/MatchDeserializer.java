@@ -1,10 +1,5 @@
 package com.tipsuy.readaufplayers.domain.serializer;
 
-import java.io.IOException;
-import java.time.LocalDateTime;
-import java.time.ZoneOffset;
-import java.time.format.DateTimeFormatter;
-
 import com.fasterxml.jackson.core.JacksonException;
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.DeserializationContext;
@@ -12,7 +7,10 @@ import com.fasterxml.jackson.databind.JsonDeserializer;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.tipsuy.readaufplayers.config.GlobalConfig;
 import com.tipsuy.readaufplayers.domain.Match;
-
+import java.io.IOException;
+import java.time.LocalDateTime;
+import java.time.ZoneId;
+import java.time.format.DateTimeFormatter;
 import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor
@@ -32,7 +30,7 @@ public class MatchDeserializer extends JsonDeserializer<Match> {
       match.setMatchDay(node.get("matchDay").decimalValue().byteValue());
       final var dateTime = node.get("matchDateTime").asText();
       final var localDateTime = LocalDateTime.parse(dateTime, DateTimeFormatter.ofPattern(GlobalConfig.DATETIME_FORMAT));
-      match.setMatchDateTime(localDateTime.atOffset(ZoneOffset.of(timezone)));
+      match.setMatchDateTime(localDateTime.atZone(ZoneId.of(timezone)).toOffsetDateTime());
       return match;
    }
 }

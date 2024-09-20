@@ -44,7 +44,7 @@ public class OnLoadConfig implements InitializingBean {
 //      loadSequences();
 //      load("seasons.json", new TypeReference<List<Season>>() {});
 //      load("teams.json", new TypeReference<List<Team>>() {});
-      loadMatches();
+  //    loadMatches();
 //      load("teams-opponents.json", new TypeReference<List<TeamLastOpponent>>() {});
 //      load("executions.json", new TypeReference<List<Execution>>() {});
       loadPlayers();
@@ -70,13 +70,13 @@ public class OnLoadConfig implements InitializingBean {
    }
 
    private void loadPlayers() throws IOException {
-      final var jsonFile = ResourceUtils.getFile(dataPath + "players.json");
+      final var jsonFile = ResourceUtils.getFile(STR."\{dataPath}players.json");
       final var collection = objectMapper.readValue(jsonFile, new TypeReference<List<Player>>() {});
       playerService.saveAll(collection);
    }
 
    private void loadMatches() throws IOException {
-      final var jsonFile = ResourceUtils.getFile(dataPath + "matches.json");
+      final var jsonFile = ResourceUtils.getFile(STR."\{dataPath}matches.json");
       final var collection = objectMapper.readValue(jsonFile, new TypeReference<List<Match>>() {});
       matchService.saveAll(collection);
    }

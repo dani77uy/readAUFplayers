@@ -1,7 +1,7 @@
 package com.tipsuy.readaufplayers.domain.dto;
 
-import java.time.LocalDate;
+import java.time.OffsetDateTime;
 
-public record ReadPlayerDTO(byte totalMatches, byte totalGoals, short totalMinutes, LocalDate birthdate, String name) {
+public record ReadPlayerDTO(byte totalMatches, byte totalGoals, short totalMinutes, OffsetDateTime birthdate, String name) {
 
 }

@@ -1,5 +1,6 @@
 package com.tipsuy.readaufplayers.domain.serializer;
 
+import com.tipsuy.readaufplayers.domain.Player;
 import java.io.Serial;
 
 import com.fasterxml.jackson.databind.BeanDescription;
@@ -21,6 +22,9 @@ public class Modifier extends BeanSerializerModifier {
       }
       if (beanDesc.getBeanClass() == Match.class) {
          return new MatchSerializer((JsonSerializer<Object>) serializer);
+      }
+      if (beanDesc.getBeanClass() == Player.class) {
+         return new PlayerSerializer((JsonSerializer<Object>) serializer);
       }
       return super.modifySerializer(config, beanDesc, serializer);
    }
