@@ -1,7 +1,10 @@
 package com.tipsuy.readaufplayers.api;
 
+import com.tipsuy.readaufplayers.domain.Team;
+import com.tipsuy.readaufplayers.domain.dto.TeamDTO;
+import com.tipsuy.readaufplayers.service.TeamService;
 import java.util.List;
-
+import lombok.RequiredArgsConstructor;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -9,12 +12,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
-import com.tipsuy.readaufplayers.domain.Team;
-import com.tipsuy.readaufplayers.domain.dto.TeamDTO;
-import com.tipsuy.readaufplayers.service.TeamService;
-
-import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor
 @RequestMapping("/team")

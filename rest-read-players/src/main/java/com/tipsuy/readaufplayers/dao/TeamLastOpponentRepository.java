@@ -1,12 +1,10 @@
 package com.tipsuy.readaufplayers.dao;
 
+import com.tipsuy.readaufplayers.domain.TeamLastOpponent;
 import java.util.Optional;
-
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 import org.springframework.stereotype.Repository;
-
-import com.tipsuy.readaufplayers.domain.TeamLastOpponent;
 
 @Repository
 public interface TeamLastOpponentRepository extends MongoRepository<TeamLastOpponent, Short> {

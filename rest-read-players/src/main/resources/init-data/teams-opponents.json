@@ -1,74 +1,74 @@
 [
   {
     "teamId": 1,
-    "opponentId": 11,
-    "matchId": 5,
+    "opponentId": 8,
+    "matchId": 12,
     "seasonId": 1
   },
   {
     "teamId": 2,
-    "opponentId": 4,
-    "matchId": 4,
+    "opponentId": 10,
+    "matchId": 11,
     "seasonId": 1
   },
   {
     "teamId": 3,
-    "opponentId": 9,
-    "matchId": 6,
+    "opponentId": 5,
+    "matchId": 10,
     "seasonId": 1
   },
   {
     "teamId": 4,
-    "opponentId": 2,
-    "matchId": 4,
+    "opponentId": 9,
+    "matchId": 7,
     "seasonId": 1
   },
   {
     "teamId": 5,
-    "opponentId": 6,
-    "matchId": 1,
+    "opponentId": 3,
+    "matchId": 10,
     "seasonId": 1
   },
   {
     "teamId": 6,
-    "opponentId": 5,
-    "matchId": 1,
+    "opponentId": 11,
+    "matchId": 9,
     "seasonId": 1
   },
   {
     "teamId": 7,
-    "opponentId": 10,
-    "matchId": 2,
+    "opponentId": 12,
+    "matchId": 8,
     "seasonId": 1
   },
   {
     "teamId": 8,
-    "opponentId": 12,
-    "matchId": 3,
+    "opponentId": 1,
+    "matchId": 12,
     "seasonId": 1
   },
   {
     "teamId": 9,
-    "opponentId": 3,
-    "matchId": 6,
+    "opponentId": 4,
+    "matchId": 7,
     "seasonId": 1
   },
   {
     "teamId": 10,
-    "opponentId": 7,
-    "matchId": 2,
+    "opponentId": 2,
+    "matchId": 11,
     "seasonId": 1
   },
   {
     "teamId": 11,
-    "opponentId": 1,
-    "matchId": 5,
+    "opponentId": 6,
+    "matchId": 9,
     "seasonId": 1
   },
   {
     "teamId": 12,
-    "opponentId": 8,
-    "matchId": 3,
+    "opponentId": 7,
+    "matchId": 8,
     "seasonId": 1
   }
 ]

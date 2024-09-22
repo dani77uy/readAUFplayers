@@ -1,10 +1,8 @@
 package com.tipsuy.readaufplayers.util;
 
+import io.micrometer.common.util.StringUtils;
 import java.text.Normalizer;
 import java.util.Locale;
-
-import io.micrometer.common.util.StringUtils;
-
 import lombok.experimental.UtilityClass;
 
 @UtilityClass

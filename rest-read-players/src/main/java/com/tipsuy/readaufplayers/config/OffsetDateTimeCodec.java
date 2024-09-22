@@ -1,6 +1,6 @@
 package com.tipsuy.readaufplayers.config;
 
-import static com.tipsuy.readaufplayers.config.GlobalConfig.DATETIME_FORMAT;
+import static com.tipsuy.readaufplayers.util.DateUtil.DATETIME_FORMAT;
 
 import java.time.OffsetDateTime;
 import java.time.format.DateTimeFormatter;

@@ -1,14 +1,11 @@
 package com.tipsuy.readaufplayers.service;
 
-import java.util.List;
-
-import org.springframework.stereotype.Service;
-
 import com.tipsuy.readaufplayers.dao.MatchRepository;
 import com.tipsuy.readaufplayers.domain.Match;
 import com.tipsuy.readaufplayers.domain.MatchPlayer;
-
+import java.util.List;
 import lombok.RequiredArgsConstructor;
+import org.springframework.stereotype.Service;
 
 @RequiredArgsConstructor
 @Service
