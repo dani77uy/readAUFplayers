@@ -1,2459 +1,2732 @@
 [
   {
-    "executionPlayer": {
-      "playerId": 1,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "335728885__Fabio_Sastre__2001-01-01"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 2,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-2113402941__Franco_Farías__2005-08-05"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 3,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1404794310__ENZO_BARTOLIC__2005-01-06"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 4,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-2038527450__PABLO_MENESES__1994-08-26"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 5,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1007196403__Esteban_Andrada__2000-07-20"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 6,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1479789671__Mateo_Lima__2004-02-11"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 7,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "531527060__Alexis_Calcagno__2003-12-08"
     },
-    "totalMinutes": 81,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 81
   },
   {
-    "executionPlayer": {
-      "playerId": 8,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1584764046__ALAN_FREITAS__2004-02-04"
     },
-    "totalMinutes": 70,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 70
   },
   {
-    "executionPlayer": {
-      "playerId": 9,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-919932399__RAMIREZ_A.__null"
     },
-    "totalMinutes": 70,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 70
   },
   {
-    "executionPlayer": {
-      "playerId": 10,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "817142330__MATHIAS_DE_LOS_SANTOS__1997-10-09"
     },
-    "totalMinutes": 70,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 70
   },
   {
-    "executionPlayer": {
-      "playerId": 11,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "181437290__ALEXIS_LEITES__2006-03-26"
     },
-    "totalMinutes": 56,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 56
   },
   {
-    "executionPlayer": {
-      "playerId": 12,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1092410525__JONATHAN_OLIVERA__2007-06-25"
     },
-    "totalMinutes": 34,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 34
   },
   {
-    "executionPlayer": {
-      "playerId": 13,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "2062796914__JUANIGNACIO_CALZADA__2004-10-17"
     },
-    "totalMinutes": 20,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 20
   },
   {
-    "executionPlayer": {
-      "playerId": 14,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1473387017__Thiago_Paredez__2002-03-31"
     },
-    "totalMinutes": 20,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 20
   },
   {
-    "executionPlayer": {
-      "playerId": 15,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-837090409__FACUNDO_FAJARDO__2004-03-29"
     },
-    "totalMinutes": 20,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 20
   },
   {
-    "executionPlayer": {
-      "playerId": 16,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1494645802__STEFANO_ESPINOSA__2005-04-25"
     },
-    "totalMinutes": 9,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 9
   },
   {
-    "executionPlayer": {
-      "playerId": 17,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "52111393__MATEO_DENIS__2001-12-25"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 18,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1696369032__PIERRE_JOURDAN__2004-05-09"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 19,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-372579068__Felipe_Hernández__2001-12-13"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 20,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-612512820__Nahuel_Herrero__2001-04-16"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 21,
-      "executionId": 1
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:55:44.44398100Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1235211738__Santiago_Amaro__2005-10-01"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 6,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1479789671__Mateo_Lima__2004-02-11"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 1,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "335728885__Fabio_Sastre__2001-01-01"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 2,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-2113402941__Franco_Farías__2005-08-05"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 3,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1404794310__ENZO_BARTOLIC__2005-01-06"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 4,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-2038527450__PABLO_MENESES__1994-08-26"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 5,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1007196403__Esteban_Andrada__2000-07-20"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 7,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "531527060__Alexis_Calcagno__2003-12-08"
     },
-    "totalMinutes": 81,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 81
   },
   {
-    "executionPlayer": {
-      "playerId": 8,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1584764046__ALAN_FREITAS__2004-02-04"
     },
-    "totalMinutes": 70,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 70
   },
   {
-    "executionPlayer": {
-      "playerId": 9,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-919932399__RAMIREZ_A.__null"
     },
-    "totalMinutes": 70,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 70
   },
   {
-    "executionPlayer": {
-      "playerId": 10,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "817142330__MATHIAS_DE_LOS_SANTOS__1997-10-09"
     },
-    "totalMinutes": 70,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 70
   },
   {
-    "executionPlayer": {
-      "playerId": 11,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "181437290__ALEXIS_LEITES__2006-03-26"
     },
-    "totalMinutes": 56,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 56
   },
   {
-    "executionPlayer": {
-      "playerId": 12,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1092410525__JONATHAN_OLIVERA__2007-06-25"
     },
-    "totalMinutes": 34,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 34
   },
   {
-    "executionPlayer": {
-      "playerId": 13,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "2062796914__JUANIGNACIO_CALZADA__2004-10-17"
     },
-    "totalMinutes": 20,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 20
   },
   {
-    "executionPlayer": {
-      "playerId": 14,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1473387017__Thiago_Paredez__2002-03-31"
     },
-    "totalMinutes": 20,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 20
   },
   {
-    "executionPlayer": {
-      "playerId": 15,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-837090409__FACUNDO_FAJARDO__2004-03-29"
     },
-    "totalMinutes": 20,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 20
   },
   {
-    "executionPlayer": {
-      "playerId": 16,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1494645802__STEFANO_ESPINOSA__2005-04-25"
     },
-    "totalMinutes": 9,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 9
   },
   {
-    "executionPlayer": {
-      "playerId": 17,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "52111393__MATEO_DENIS__2001-12-25"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 18,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1696369032__PIERRE_JOURDAN__2004-05-09"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 19,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-372579068__Felipe_Hernández__2001-12-13"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 20,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-612512820__Nahuel_Herrero__2001-04-16"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 21,
-      "executionId": 2
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:01.28372700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1235211738__Santiago_Amaro__2005-10-01"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 22,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1615404454__JONATHAN_SILVA__1991-04-15"
     },
-    "totalMinutes": 45,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 45
   },
   {
-    "executionPlayer": {
-      "playerId": 23,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1247641025__JHON_MACHIN__1998-05-05"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 24,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "473626622__GASTON_QUIROZ__1998-01-15"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 25,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "479885543__Fabio_González__2005-07-14"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 26,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-616352024__JUAN_PEREIRA__2004-04-27"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 2
+    "totalGoals": 2,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 27,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-400307543__MATTOS_M.__null"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 28,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-879351160__NICOLAS_OCAMPO__2001-06-03"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 29,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "766195785__PAULO_LOPEZ__1994-07-27"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 30,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1396416954__Eduard_Pintos__1999-12-23"
     },
-    "totalMinutes": 87,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 87
   },
   {
-    "executionPlayer": {
-      "playerId": 31,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-93586602__JAVIER_PUERTO__2002-12-23"
     },
-    "totalMinutes": 87,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 87
   },
   {
-    "executionPlayer": {
-      "playerId": 32,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1218684352__Matías_Ocampo__2002-10-29"
     },
-    "totalMinutes": 76,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 76
   },
   {
-    "executionPlayer": {
-      "playerId": 33,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-991390562__Andy_Latallada__2000-09-03"
     },
-    "totalMinutes": 45,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 45
   },
   {
-    "executionPlayer": {
-      "playerId": 34,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "738951450__PABLO_BRUNO__1989-10-11"
     },
-    "totalMinutes": 14,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 14
   },
   {
-    "executionPlayer": {
-      "playerId": 35,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-111454410__WILLIAM_PRIETO__1993-06-14"
     },
-    "totalMinutes": 3,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 3
   },
   {
-    "executionPlayer": {
-      "playerId": 36,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "2059261636__BUSQUETS_J.__null"
     },
-    "totalMinutes": 3,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 3
   },
   {
-    "executionPlayer": {
-      "playerId": 37,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1323337541__DANIEL_MENCHACA__1971-03-15"
     },
-    "totalMinutes": 0,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 38,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "64768842__DA_G.__null"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 39,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1354368903__Joan_Rosa__2004-07-11"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 40,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1276315597__FACAL_N.__null"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 41,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "750657334__BRAGA_M.__null"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 42,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1426480215__RODRIGUEZ_D.__null"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 43,
-      "executionId": 3
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:24.26256900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1437066104__MONROY_F.__null"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 44,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-8967130__BRAHIAN_BERSAIS__1995-01-18"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 45,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-540288974__ANDY_MAKUKA__1994-11-25"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 46,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1307789882__Brian_Lapaz__2001-03-05"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 47,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "514415502__Santiago_Cuña__2001-01-05"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 1
+    "totalGoals": 1,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 48,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1158460428__Álex_Gómez__2003-08-21"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 49,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1595432181__Gianluca_Colla__2001-01-09"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 2
+    "totalGoals": 2,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 50,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "687130909__LUCIANO_SOTELO__2003-12-21"
     },
-    "totalMinutes": 71,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 71
   },
   {
-    "executionPlayer": {
-      "playerId": 51,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-469207534__Facundo_Barrett__2004-03-24"
     },
-    "totalMinutes": 61,
     "totalMatches": 1,
-    "totalGoals": 3
+    "totalGoals": 3,
+    "totalMinutes": 61
   },
   {
-    "executionPlayer": {
-      "playerId": 52,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1091110092__Gerard_Duarte__2003-03-04"
     },
-    "totalMinutes": 61,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 61
   },
   {
-    "executionPlayer": {
-      "playerId": 53,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "819097169__Guillermo_Benítez__2004-05-18"
     },
-    "totalMinutes": 45,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 45
   },
   {
-    "executionPlayer": {
-      "playerId": 54,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1053128685__Lucas_García__2004-07-05"
     },
-    "totalMinutes": 45,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 45
   },
   {
-    "executionPlayer": {
-      "playerId": 55,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "441937991__Nahuel_Santana__1997-01-03"
     },
-    "totalMinutes": 45,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 45
   },
   {
-    "executionPlayer": {
-      "playerId": 56,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "186989700__LUCAS_MARTINEZ__1995-04-14"
     },
-    "totalMinutes": 45,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 45
   },
   {
-    "executionPlayer": {
-      "playerId": 57,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "143446429__Christian_Moreno__2003-02-13"
     },
-    "totalMinutes": 29,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 29
   },
   {
-    "executionPlayer": {
-      "playerId": 58,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "400376505__ENZO_MUÑOA__2002-02-14"
     },
-    "totalMinutes": 29,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 29
   },
   {
-    "executionPlayer": {
-      "playerId": 59,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "2141644212__Marcelo_Álvarez__2003-12-24"
     },
-    "totalMinutes": 19,
     "totalMatches": 1,
-    "totalGoals": 1
+    "totalGoals": 1,
+    "totalMinutes": 19
   },
   {
-    "executionPlayer": {
-      "playerId": 60,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "389486267__ENZO_BADIA__2003-04-24"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 61,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-862191046__Rodrigo_Campanile__1995-07-30"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 62,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "576694167__Itan_Amor__2004-01-19"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 63,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1609409222__SEBASTIAN_RECOBA__1999-07-30"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 64,
-      "executionId": 4
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:34.48070200Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1141221786__Nicolás_Moliterno__2002-10-14"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 65,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "2124704068__DAMIAN_PALAVES__1993-02-01"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 66,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-226294722__Lucas_Reggiardo__2003-06-01"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 67,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1608558783__MARCOS_PENA__1996-03-07"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 68,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "97445092__Zinedine_Fischer__2001-02-23"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 69,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1767408782__Ángel_Lorenzo__2002-07-11"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 70,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1765484913__NAHUEL_LAVITOLA__2000-05-14"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 71,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-115353736__NATANAEL_CARBALLAL__2004-07-31"
     },
-    "totalMinutes": 79,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 79
   },
   {
-    "executionPlayer": {
-      "playerId": 72,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "507598530__Sebastián_López__2002-03-18"
     },
-    "totalMinutes": 79,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 79
   },
   {
-    "executionPlayer": {
-      "playerId": 73,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1778223093__DIEGO_SILVEIRA__2004-01-03"
     },
-    "totalMinutes": 64,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 64
   },
   {
-    "executionPlayer": {
-      "playerId": 74,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1924976694__SILVIO_MARTINEZ__2003-08-03"
     },
-    "totalMinutes": 64,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 64
   },
   {
-    "executionPlayer": {
-      "playerId": 75,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "728277839__Santiago_Nemeth__2003-09-05"
     },
-    "totalMinutes": 56,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 56
   },
   {
-    "executionPlayer": {
-      "playerId": 76,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "166858295__Gastón_Sacco__2000-03-28"
     },
-    "totalMinutes": 34,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 34
   },
   {
-    "executionPlayer": {
-      "playerId": 77,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1452765732__MATEO_FONTAINE__2006-09-04"
     },
-    "totalMinutes": 26,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 26
   },
   {
-    "executionPlayer": {
-      "playerId": 78,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "75901594__Franco_Laino__2001-03-13"
     },
-    "totalMinutes": 26,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 26
   },
   {
-    "executionPlayer": {
-      "playerId": 79,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1763461525__Luis_Correa__2001-06-29"
     },
-    "totalMinutes": 11,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 11
   },
   {
-    "executionPlayer": {
-      "playerId": 80,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "478912036__Rodrigo_Sosa__1996-12-14"
     },
-    "totalMinutes": 11,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 11
   },
   {
-    "executionPlayer": {
-      "playerId": 81,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-45783360__Manuel_Altez__2005-04-10"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 82,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "921242523__MATEO_FERNANDEZ__2006-04-06"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 83,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1345272723__PAOLO_GONZALEZ__2004-12-13"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 84,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "384059843__BRIAN_SEQUEIRA__2001-10-12"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 85,
-      "executionId": 5
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:42.72730900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1437294626__ALEXANDER_CABEZA__2002-07-23"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 86,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1289999729__Nicolás_Correa__1991-07-11"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 87,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-174781117__Bruno_Vega__2005-01-07"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 88,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-133907449__Gerónimo_Blanco__2004-01-14"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 89,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1791774392__Enzo_Sánchez__1996-04-01"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 90,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "502636643__DAMIAN_BEISSO__2002-02-10"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 91,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1199926624__FACUNDO_ESTEFAN__1997-03-10"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 92,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1794922968__Iñaki_Gude__2005-04-06"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 93,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1223549110__Santiago_Nappi__2003-04-06"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 94,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "2064067002__Germán_Cardozo__2004-01-27"
     },
-    "totalMinutes": 82,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 82
   },
   {
-    "executionPlayer": {
-      "playerId": 95,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-596025152__Cristian_Rodríguez__2005-02-14"
     },
-    "totalMinutes": 66,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 66
   },
   {
-    "executionPlayer": {
-      "playerId": 96,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-856874594__Facundo_Sosa__2001-08-29"
     },
-    "totalMinutes": 66,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 66
   },
   {
-    "executionPlayer": {
-      "playerId": 97,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "707121835__Bruno_Rodríguez__2004-09-06"
     },
-    "totalMinutes": 41,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 41
   },
   {
-    "executionPlayer": {
-      "playerId": 98,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1774675227__Alejandro_Monzón__2000-02-18"
     },
-    "totalMinutes": 24,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 24
   },
   {
-    "executionPlayer": {
-      "playerId": 99,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1350412390__Cristofer_Barboza__2003-03-13"
     },
-    "totalMinutes": 24,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 24
   },
   {
-    "executionPlayer": {
-      "playerId": 100,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "2101182272__ROSA_C.__null"
     },
-    "totalMinutes": 8,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 8
   },
   {
-    "executionPlayer": {
-      "playerId": 101,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1589126844__Richard_Rodríguez__2000-06-30"
     },
-    "totalMinutes": 8,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 8
   },
   {
-    "executionPlayer": {
-      "playerId": 102,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1762705330__Juan_Demuro__2003-11-16"
     },
-    "totalMinutes": 8,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 8
   },
   {
-    "executionPlayer": {
-      "playerId": 103,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "787161904__Valentín_Sebben__2005-03-12"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 104,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-270230837__CRISTHIAN_LOPEZ__1994-01-16"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 105,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-426506302__Néstor_Aguilar__2002-03-24"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 106,
-      "executionId": 6
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:47.32158700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-556306145__Tomás_Mancini__2003-09-22"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 107,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1027923617__Ignacio_Ojeda__1999-02-03"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 108,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "996657686__Cristian_Lima__2000-04-18"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 1
+    "totalGoals": 1,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 109,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-399049072__Vicente_Nion__2003-01-11"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 110,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-605533246__JHONATAN_OCAMPO__1996-06-20"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 111,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1113113268__Augusto_Cáceres__1996-09-29"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 112,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1990942980__Marcos_Cesaro__2000-03-10"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 113,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "391359026__Cosme_Lima__1998-02-22"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 114,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1965056226__Paul_Gómez__1996-08-12"
     },
-    "totalMinutes": 78,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 78
   },
   {
-    "executionPlayer": {
-      "playerId": 115,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "732420518__Alan_Escudero__2001-03-01"
     },
-    "totalMinutes": 71,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 71
   },
   {
-    "executionPlayer": {
-      "playerId": 116,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1642581726__EDJO'O_D.__null"
     },
-    "totalMinutes": 66,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 66
   },
   {
-    "executionPlayer": {
-      "playerId": 117,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1218696843__Santiago_Silva__2001-02-07"
     },
-    "totalMinutes": 46,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 46
   },
   {
-    "executionPlayer": {
-      "playerId": 118,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-2046673986__Anthony_Rodríguez__2004-02-07"
     },
-    "totalMinutes": 44,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 44
   },
   {
-    "executionPlayer": {
-      "playerId": 119,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1498344911__MAXIMILIANO_BENITEZ__2004-07-20"
     },
-    "totalMinutes": 24,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 24
   },
   {
-    "executionPlayer": {
-      "playerId": 120,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-495350582__Jacinto_de_Lizarza__2003-08-04"
     },
-    "totalMinutes": 19,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 19
   },
   {
-    "executionPlayer": {
-      "playerId": 121,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "391542093__MARTIN_MONDINO__1999-06-27"
     },
-    "totalMinutes": 12,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 12
   },
   {
-    "executionPlayer": {
-      "playerId": 122,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "307763540__LEONARDO_CORREA__1998-07-13"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 123,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-800463998__Facundo_Gómez__2004-08-11"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 124,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1704788277__Brian_Melo__2004-06-06"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 125,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-788184873__Lucas_Pintos__2002-10-08"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 126,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1205854941__Facundo_Torres__2004-10-09"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 127,
-      "executionId": 7
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:51.37040700Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1733441983__Ignacio_Quefau__2002-04-26"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 128,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "190122844__LUCAS_AMARAL__2002-03-02"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 129,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1117524406__RODRIGO_PEREIRA__2002-07-02"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 130,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-2086093727__Washington_Fernández__1992-06-18"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 131,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1393584792__FRONES_M.__null"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 132,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-706102253__Deibys_Rocha__1993-10-11"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 1
+    "totalGoals": 1,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 133,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-8158409__GARY_BUSTOS__2003-10-20"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 134,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "726731259__Inti_Bayarres__2004-12-17"
     },
-    "totalMinutes": 86,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 86
   },
   {
-    "executionPlayer": {
-      "playerId": 135,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "81425321__NAHUEL_RAMOS__2000-12-11"
     },
-    "totalMinutes": 86,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 86
   },
   {
-    "executionPlayer": {
-      "playerId": 136,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1074410950__DELIAN_PINELA__2000-06-29"
     },
-    "totalMinutes": 75,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 75
   },
   {
-    "executionPlayer": {
-      "playerId": 137,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-763024463__Álvaro_López__2001-04-14"
     },
-    "totalMinutes": 75,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 75
   },
   {
-    "executionPlayer": {
-      "playerId": 138,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "2057425123__Áxel_Rodríguez__2002-05-13"
     },
-    "totalMinutes": 56,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 56
   },
   {
-    "executionPlayer": {
-      "playerId": 139,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-733900240__LAUTARO_GUIDO__2004-03-12"
     },
-    "totalMinutes": 34,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 34
   },
   {
-    "executionPlayer": {
-      "playerId": 140,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-784539816__AXEL_TEXEIRA__2005-02-25"
     },
-    "totalMinutes": 15,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 15
   },
   {
-    "executionPlayer": {
-      "playerId": 141,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "974302858__NICOLAS_MACHADO__2001-10-29"
     },
-    "totalMinutes": 15,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 15
   },
   {
-    "executionPlayer": {
-      "playerId": 142,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1345368084__MARIO_DELGADO__1989-09-25"
     },
-    "totalMinutes": 4,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 4
   },
   {
-    "executionPlayer": {
-      "playerId": 143,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-553625860__Richard_Acosta__2001-03-28"
     },
-    "totalMinutes": 4,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 4
   },
   {
-    "executionPlayer": {
-      "playerId": 144,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-926593381__CABRERA_M.__null"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 145,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1653230526__BRUNO_BRUM__1996-11-27"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 146,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-209534275__AGUSTIN_CAMPI__2003-10-14"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 147,
-      "executionId": 8
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:55.21352300Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "974735147__JHON_CORREA__1996-11-07"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 148,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "690507851__Mauro_Ledesma__2000-06-05"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 149,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1838027834__Damián_Álvez__1999-05-06"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 150,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1570243769__Rodrigo_Hernández__2000-07-17"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 151,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1189520714__LAUTARO_GONZALEZ__2000-05-04"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 152,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "657606394__IGNACIO_ROMERO__2000-02-06"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 153,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1732432850__EZEQUIEL_OVIEDO__2004-01-09"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 154,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "802536490__ANDRADA_A.__null"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 155,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-2064591403__Luis_Suárez__2001-03-17"
     },
-    "totalMinutes": 81,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 81
   },
   {
-    "executionPlayer": {
-      "playerId": 156,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-2109053807__JESUS_FURTADO__1999-10-21"
     },
-    "totalMinutes": 62,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 62
   },
   {
-    "executionPlayer": {
-      "playerId": 157,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "454209750__HEBERT_CARDOZO__1997-08-27"
     },
-    "totalMinutes": 62,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 62
   },
   {
-    "executionPlayer": {
-      "playerId": 158,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-689981497__SANCHEZ_M.__null"
     },
-    "totalMinutes": 46,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 46
   },
   {
-    "executionPlayer": {
-      "playerId": 159,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1628884560__FERNANDEZ_M.__null"
     },
-    "totalMinutes": 46,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 46
   },
   {
-    "executionPlayer": {
-      "playerId": 160,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-338714034__BRIAN_FAGUNDEZ__1994-12-04"
     },
-    "totalMinutes": 44,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 44
   },
   {
-    "executionPlayer": {
-      "playerId": 161,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "344453782__Luciano_Acuña__2000-09-08"
     },
-    "totalMinutes": 44,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 44
   },
   {
-    "executionPlayer": {
-      "playerId": 162,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "108856266__RODRIGO_MARTINEZ__2004-05-04"
     },
-    "totalMinutes": 28,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 28
   },
   {
-    "executionPlayer": {
-      "playerId": 163,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-24281817__LLANO_E.__null"
     },
-    "totalMinutes": 28,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 28
   },
   {
-    "executionPlayer": {
-      "playerId": 164,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1846403564__KADY_SILVA__2001-10-11"
     },
-    "totalMinutes": 9,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 9
   },
   {
-    "executionPlayer": {
-      "playerId": 165,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "2115891684__FEDERICO_SILVA__1971-04-18"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 166,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-223083119__ALBERTO_MARTINEZ__1996-07-26"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 167,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "865852045__Áxel_Pechi__2002-03-02"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 168,
-      "executionId": 9
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:56:59.30585500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1516032644__EMILIANO_SUAREZ__1997-10-26"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 169,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1834813330__FACUNDO_IFRAN__2004-10-24"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 170,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1443178698__SCHUBERT_CARDOZO__1994-07-14"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 171,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-2082322567__DE_SOUSA_M.__null"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 172,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-2068083695__MICHAEL_OLIVERA__1999-03-19"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 173,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "2075526516__MICHEL_CASTRO__1991-12-04"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 174,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1364097113__Pablo_Rodríguez__1999-05-14"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 175,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1664083704__CAETANO_A.__null"
     },
-    "totalMinutes": 79,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 79
   },
   {
-    "executionPlayer": {
-      "playerId": 176,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-2054106410__AGUIAR_M.__null"
     },
-    "totalMinutes": 70,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 70
   },
   {
-    "executionPlayer": {
-      "playerId": 177,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-390484348__CASTRO_N.__null"
     },
-    "totalMinutes": 70,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 70
   },
   {
-    "executionPlayer": {
-      "playerId": 178,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "972918843__PABLO_BARBOZA__2002-05-19"
     },
-    "totalMinutes": 50,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 50
   },
   {
-    "executionPlayer": {
-      "playerId": 179,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "751609474__PABLO_PIREZ__1997-11-04"
     },
-    "totalMinutes": 50,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 50
   },
   {
-    "executionPlayer": {
-      "playerId": 180,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1952684371__MATIAS_DE_PAZOS__1997-08-09"
     },
-    "totalMinutes": 40,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 40
   },
   {
-    "executionPlayer": {
-      "playerId": 181,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1011092355__Nahuel_Sosa__2003-06-12"
     },
-    "totalMinutes": 20,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 20
   },
   {
-    "executionPlayer": {
-      "playerId": 182,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-837883452__GABRIEL_SOSA__2001-09-06"
     },
-    "totalMinutes": 20,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 20
   },
   {
-    "executionPlayer": {
-      "playerId": 183,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1235284638__LOPEZ_J.__null"
     },
-    "totalMinutes": 11,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 11
   },
   {
-    "executionPlayer": {
-      "playerId": 184,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-184309036__DAVID_SANTANA__2003-09-03"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 185,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-123611026__JESLIAN_SELTNERCICH__2002-11-22"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 186,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-326316620__Mauricio_Pagliari__2000-04-01"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 187,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-860091220__JAIRO_DE_LA_PAZ__1994-06-02"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 188,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "468193321__PIREZ_W.__null"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 189,
-      "executionId": 10
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:03.41713600Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1054795755__ROBERT_CARMONA__1962-04-29"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 190,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-819963376__Walter_Fernández__1988-02-06"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 191,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "466828349__Lautaro_Aguete__2000-02-22"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 192,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1528235096__Christian_Marín__1988-06-01"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 193,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1652727036__BRUNO_SOSA__1999-09-30"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 194,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-39049630__GUILLERMO_APPELT__1989-04-12"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 195,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "237057987__Mathías_Frugoni__1999-05-05"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 196,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1939878925__Sergio_Souza__1985-05-06"
     },
-    "totalMinutes": 89,
     "totalMatches": 1,
-    "totalGoals": 1
+    "totalGoals": 1,
+    "totalMinutes": 89
   },
   {
-    "executionPlayer": {
-      "playerId": 197,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1991857531__Sebastián_Barreto__2001-09-29"
     },
-    "totalMinutes": 70,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 70
   },
   {
-    "executionPlayer": {
-      "playerId": 198,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-2127616812__FEDERICO_FERNANDEZ__1999-05-16"
     },
-    "totalMinutes": 70,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 70
   },
   {
-    "executionPlayer": {
-      "playerId": 199,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "763807592__EDMUNDO_SORRENTI__2004-04-08"
     },
-    "totalMinutes": 46,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 46
   },
   {
-    "executionPlayer": {
-      "playerId": 200,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1563156234__DARWIN_AGUILAR__2004-09-18"
     },
-    "totalMinutes": 46,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 46
   },
   {
-    "executionPlayer": {
-      "playerId": 201,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1215933131__Santiago_Viera__2004-02-25"
     },
-    "totalMinutes": 44,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 44
   },
   {
-    "executionPlayer": {
-      "playerId": 202,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1963948738__Rodrigo_Vidal__2000-08-11"
     },
-    "totalMinutes": 44,
     "totalMatches": 1,
-    "totalGoals": 1
+    "totalGoals": 1,
+    "totalMinutes": 44
   },
   {
-    "executionPlayer": {
-      "playerId": 203,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-388783140__Ignacio_González__2004-09-15"
     },
-    "totalMinutes": 20,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 20
   },
   {
-    "executionPlayer": {
-      "playerId": 204,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1492672351__BENJAMIN_ALVAREZ__2003-09-16"
     },
-    "totalMinutes": 20,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 20
   },
   {
-    "executionPlayer": {
-      "playerId": 205,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "357713405__Isaías_Toloza__2000-03-25"
     },
-    "totalMinutes": 1,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 1
   },
   {
-    "executionPlayer": {
-      "playerId": 206,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1387780242__MAXIMILIANO_BARRIOS__1999-09-22"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 207,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1855387894__JUAN_PEREZ__2004-07-17"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 208,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-397881692__Kevin_Celle__2004-05-24"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 209,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1426480029__RODRIGUEZ_J.__null"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 210,
-      "executionId": 11
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:08.24062900Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "806084571__Facundo_Portillo__2002-03-10"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 211,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "997778341__TIAGO_WILDNER__2002-12-09"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 212,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1823790381__Ignacio_Castillo__2003-03-10"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 213,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1054798158__Agustín_Casco__2000-09-01"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 214,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "376447319__Cristian_Ferreira__1998-01-15"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 1
+    "totalGoals": 1,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 215,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1398310362__Jonathan_Baeza__2002-05-30"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 216,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1808176981__Jorge_Olivera__2000-06-28"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 217,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-188512913__David_Santo__2003-04-17"
     },
-    "totalMinutes": 88,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 88
   },
   {
-    "executionPlayer": {
-      "playerId": 218,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1541331184__José_Aragonez__2004-05-29"
     },
-    "totalMinutes": 88,
     "totalMatches": 1,
-    "totalGoals": 1
+    "totalGoals": 1,
+    "totalMinutes": 88
   },
   {
-    "executionPlayer": {
-      "playerId": 219,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1375124734__Eric_Gutiérrez__2005-05-10"
     },
-    "totalMinutes": 83,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 83
   },
   {
-    "executionPlayer": {
-      "playerId": 220,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1537077844__Adrián_Da_Fonte__2000-07-20"
     },
-    "totalMinutes": 60,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 60
   },
   {
-    "executionPlayer": {
-      "playerId": 221,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-856874594__Facundo_Sosa__2000-07-10"
     },
-    "totalMinutes": 60,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 60
   },
   {
-    "executionPlayer": {
-      "playerId": 222,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1637391864__Luca_Araújo__2004-02-02"
     },
-    "totalMinutes": 30,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 30
   },
   {
-    "executionPlayer": {
-      "playerId": 223,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "90675645__Luciano_Olivera__2000-03-03"
     },
-    "totalMinutes": 30,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 30
   },
   {
-    "executionPlayer": {
-      "playerId": 224,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1489746192__DEMIAN_CUNEO__2002-11-07"
     },
-    "totalMinutes": 7,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 7
   },
   {
-    "executionPlayer": {
-      "playerId": 225,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1953654432__Walter_Barreto__2000-12-21"
     },
-    "totalMinutes": 2,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 2
   },
   {
-    "executionPlayer": {
-      "playerId": 226,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1467186340__Joe_Arreche__2004-09-11"
     },
-    "totalMinutes": 2,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 2
   },
   {
-    "executionPlayer": {
-      "playerId": 227,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1703051423__Gerónimo_Raviales__2002-04-29"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 228,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "294840216__CHRISTIAN_NUÑEZ__2000-08-08"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 229,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1222394558__Moisés_Tourreilles__2001-04-17"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 230,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1303484788__Juan_Dorta__2004-11-21"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 231,
-      "executionId": 12
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:11.80674400Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1961271334__Lucas_Pérez__2003-02-23"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 232,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-2035848090__MATEO_RAMIREZ__1994-10-05"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 233,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "53990740__Pablo_Correa__2001-01-26"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 234,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1136681352__Iván_Pérez__2001-05-31"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 1
+    "totalGoals": 1,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 235,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1751141125__MATIAS_OLIVERA__1998-07-05"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 236,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-977525543__Hernán_de_León__1997-06-16"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 237,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-302177224__Agustín_de_los_Santos__2002-10-11"
     },
-    "totalMinutes": 90,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 90
   },
   {
-    "executionPlayer": {
-      "playerId": 238,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1847592405__Martín_Cardozo__1986-06-25"
     },
-    "totalMinutes": 83,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 83
   },
   {
-    "executionPlayer": {
-      "playerId": 239,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1846908632__Sebastián_Burgos__1998-04-10"
     },
-    "totalMinutes": 75,
     "totalMatches": 1,
-    "totalGoals": 1
+    "totalGoals": 1,
+    "totalMinutes": 75
   },
   {
-    "executionPlayer": {
-      "playerId": 240,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "667424386__Santiago_Laport__1995-04-22"
     },
-    "totalMinutes": 75,
     "totalMatches": 1,
-    "totalGoals": 1
+    "totalGoals": 1,
+    "totalMinutes": 75
   },
   {
-    "executionPlayer": {
-      "playerId": 241,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1258720710__Fernando_Sellanes__1990-04-23"
     },
-    "totalMinutes": 61,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 61
   },
   {
-    "executionPlayer": {
-      "playerId": 242,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "2126283717__DANIEL_CABRERA__1997-07-15"
     },
-    "totalMinutes": 61,
     "totalMatches": 1,
-    "totalGoals": 1
+    "totalGoals": 1,
+    "totalMinutes": 61
   },
   {
-    "executionPlayer": {
-      "playerId": 243,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-700744860__Álvaro_Fernández__2000-03-21"
     },
-    "totalMinutes": 29,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 29
   },
   {
-    "executionPlayer": {
-      "playerId": 244,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-2122464260__OSCAR_RUSSO__1990-05-06"
     },
-    "totalMinutes": 29,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 29
   },
   {
-    "executionPlayer": {
-      "playerId": 245,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-804314457__Facundo_Greno__2001-01-15"
     },
-    "totalMinutes": 15,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 15
   },
   {
-    "executionPlayer": {
-      "playerId": 246,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-1251050863__Juan_Vanoli__2003-02-12"
     },
-    "totalMinutes": 15,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 15
   },
   {
-    "executionPlayer": {
-      "playerId": 247,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1648527432__Nahuel_de_Armas__2000-06-22"
     },
-    "totalMinutes": 7,
     "totalMatches": 1,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 7
   },
   {
-    "executionPlayer": {
-      "playerId": 248,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "1141863390__Álvaro_Galiano__2003-04-22"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 249,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-934384116__NICOLAS_MENDEZ__1998-09-17"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 250,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "315937978__PATRICIO_TORRES__1996-03-14"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 251,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "-244216576__MATHIAS_ACOSTA__1996-07-07"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   },
   {
-    "executionPlayer": {
-      "playerId": 252,
-      "executionId": 13
+    "playerExecutionPk": {
+      "executionId": "2024-09-14T01:57:15.65111500Z",
+      "seasonId": 1,
+      "playerUniqueIdentification": "973735870__FERNANDO_PENAS__2001-01-18"
     },
-    "totalMinutes": 0,
     "totalMatches": 0,
-    "totalGoals": 0
+    "totalGoals": 0,
+    "totalMinutes": 0
   }
 ]

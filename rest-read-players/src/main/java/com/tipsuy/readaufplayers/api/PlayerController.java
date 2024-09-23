@@ -24,7 +24,7 @@ public class PlayerController {
     if (teamId == null || NumberUtils.SHORT_ZERO.equals(teamId)) {
       return ResponseEntity.of(playerService.readPlayersInAllTeams(seasonId));
     } else {
-      return ResponseEntity.ok(playerService.readPlayers(seasonId, teamId));
+      return ResponseEntity.of(playerService.readPlayers(seasonId, teamId));
     }
   }
 }

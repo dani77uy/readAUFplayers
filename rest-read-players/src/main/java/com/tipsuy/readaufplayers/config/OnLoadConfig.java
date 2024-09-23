@@ -2,8 +2,10 @@ package com.tipsuy.readaufplayers.config;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.tipsuy.readaufplayers.domain.Execution;
 import com.tipsuy.readaufplayers.domain.Match;
 import com.tipsuy.readaufplayers.domain.Player;
+import com.tipsuy.readaufplayers.domain.PlayerExecution;
 import com.tipsuy.readaufplayers.service.MatchService;
 import com.tipsuy.readaufplayers.service.PlayerService;
 import java.io.IOException;
@@ -44,9 +46,9 @@ public class OnLoadConfig implements InitializingBean {
 //      load("teams.json", new TypeReference<List<Team>>() {});
   //    loadMatches();
    //   load("teams-opponents.json", new TypeReference<List<TeamLastOpponent>>() {});
-//      load("executions.json", new TypeReference<List<Execution>>() {});
+      load("executions.json", new TypeReference<List<Execution>>() {});
   //    loadPlayers();
-//      load("players-executions.json", new TypeReference<List<PlayerExecutionDifference>>() {});
+    //  load("players-executions.json", new TypeReference<List<PlayerExecution>>() {});
    }
 
    private void loadSequences() {

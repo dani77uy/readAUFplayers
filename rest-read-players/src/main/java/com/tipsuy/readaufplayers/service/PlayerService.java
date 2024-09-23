@@ -51,7 +51,7 @@ public class PlayerService {
    public List<Player> saveAll(final Iterable<Player> collection) {
       final var playersToSave = new ArrayList<Player>();
       collection.forEach(p -> {
-         if (playerRepository.findByUniquePropertyOfPlayer(p.getUniquePropertyOfPlayer()).isEmpty()) {
+         if (playerRepository.existsByUniquePropertyOfPlayer(p.getUniquePropertyOfPlayer())) {
             Optional.ofNullable(p.getBirthDate()).ifPresent(b -> p.setBirthDate(b.plusDays(1)));
             p.setPlayerName(TextUtil.normalizeName(p.getPlayerName()));
             playersToSave.add(p);
@@ -62,7 +62,7 @@ public class PlayerService {
 
    @Transactional(propagation = Propagation.REQUIRES_NEW)
    public Player save(final Player player) {
-      if (playerRepository.findByUniquePropertyOfPlayer(player.getUniquePropertyOfPlayer()).isEmpty()) {
+      if (playerRepository.existsByUniquePropertyOfPlayer(player.getUniquePropertyOfPlayer())) {
          Optional.ofNullable(player.getBirthDate()).ifPresent(b -> player.setBirthDate(b.plusDays(1)));
          player.setPlayerName(TextUtil.normalizeName(player.getPlayerName()));
          final var p = playerRepository.save(player);
