@@ -7,6 +7,9 @@ import java.time.ZoneId;
 import java.time.ZoneOffset;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
+
+import org.apache.commons.lang3.StringUtils;
+
 import lombok.NonNull;
 import lombok.experimental.UtilityClass;
 
@@ -16,6 +19,8 @@ public class DateUtil {
   public static final String DATETIME_FORMAT = "yyyy-MM-dd HH:mm";
 
   public static final String DATE_FORMAT = "yyyy-MM-dd";
+
+  public static final DateTimeFormatter MATCH_DATETIME_FORMATTER = DateTimeFormatter.ofPattern("yyyyMMdd HHmmss");
 
   public String instantToStringDateTime(@NonNull final Instant instant, final Clock clock) {
     final var zonedDateTime = instant.atZone(clock.getZone());
@@ -62,6 +67,12 @@ public class DateUtil {
   public String offsetDateTimeToStringDate(@NonNull final OffsetDateTime date, final Clock clock) {
     final var formatter = DateTimeFormatter.ofPattern(DATE_FORMAT);
     return formatter.format(date.atZoneSameInstant(clock.getZone()));
+  }
+
+  public OffsetDateTime toOffsetDateTime(final int date, final int time) {
+    String dateStr = String.valueOf(date);
+    String timeStr = StringUtils.leftPad(String.valueOf(time), 6, '0');
+    return OffsetDateTime.parse(dateStr + ' ' + timeStr, MATCH_DATETIME_FORMATTER);
   }
 
   public static void main(String[] args) {

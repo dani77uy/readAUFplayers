@@ -78,5 +78,4 @@ public class OnLoadConfig implements InitializingBean {
       final var collection = objectMapper.readValue(jsonFile, new TypeReference<List<Match>>() {});
       matchService.saveAll(collection);
    }
-
 }
