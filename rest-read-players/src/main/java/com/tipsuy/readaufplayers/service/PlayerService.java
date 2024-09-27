@@ -134,9 +134,7 @@ public class PlayerService {
       final var seasonOptional = seasonRepository.findById(seasonId);
       if (seasonOptional.isPresent()) {
          final var list = new LinkedList<Map<Player, PlayerExecution>>();
-         seasonOptional.get().getTeams().forEach(teamId -> {
-            readPlayers(seasonId, teamId).ifPresent(list::add);
-         });
+         seasonOptional.get().getTeams().forEach(teamId -> readPlayers(seasonId, teamId).ifPresent(list::add));
          return Optional.of(list);
       }
       log.warn("Season {} not found", seasonId);

@@ -6,6 +6,6 @@ import java.io.Serializable;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
 @JsonInclude(JsonInclude.Include.NON_NULL)
-public record MatchPlayerPK(short teamId, long playerId) implements Serializable {
+public record MatchPlayerPK(short teamId, String playerId) implements Serializable {
 
 }

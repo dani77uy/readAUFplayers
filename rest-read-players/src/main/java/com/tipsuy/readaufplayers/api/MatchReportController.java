@@ -40,10 +40,10 @@ public class MatchReportController {
          return ResponseEntity.internalServerError().body(e.getMessage());
       }
    }
-
-   @PatchMapping(value = "/assignPlayersToMatchesBySeasonAndMatchDay/{seasonId}/{matchDay}")
-   public ResponseEntity<?> assignPlayersToMatchesBySeasonAndMatchDay(@PathVariable(value = "seasonId") final short seasonId,
-         @PathVariable(value = "matchDay") final byte matchDay) {
-
-   }
+//
+//   @PatchMapping(value = "/assignPlayersToMatchesBySeasonAndMatchDay/{seasonId}/{matchDay}")
+//   public ResponseEntity<?> assignPlayersToMatchesBySeasonAndMatchDay(@PathVariable(value = "seasonId") final short seasonId,
+//         @PathVariable(value = "matchDay") final byte matchDay) {
+//
+//   }
 }

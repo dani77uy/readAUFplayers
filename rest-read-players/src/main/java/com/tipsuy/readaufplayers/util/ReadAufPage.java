@@ -2,6 +2,7 @@ package com.tipsuy.readaufplayers.util;
 
 import com.tipsuy.readaufplayers.domain.dto.ReadPlayerDTO;
 import java.io.IOException;
+import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.LinkedList;
@@ -18,6 +19,8 @@ import org.jsoup.select.Elements;
 @Slf4j
 @UtilityClass
 public class ReadAufPage {
+
+  private final DateFormat formatoSalida = new SimpleDateFormat(DateUtil.DATE_FORMAT);
 
   public List<ReadPlayerDTO> read(final String url) throws IOException {
     final Document doc = Jsoup.connect(url).get();
@@ -47,7 +50,6 @@ public class ReadAufPage {
       final var formatoEntrada = new SimpleDateFormat("dd/MM/yyyy");
       try {
         final var fecha = formatoEntrada.parse(birthData[0].trim());
-        final var formatoSalida = new SimpleDateFormat(DateUtil.DATE_FORMAT);
         bd = formatoSalida.format(fecha);
       } catch (ParseException e) {
         throw new IllegalArgumentException(e);
@@ -56,8 +58,7 @@ public class ReadAufPage {
       bd = null;
     }
     final var birthDate = Optional.ofNullable(bd).map(DateUtil::stringDateToOffsetDateTime).orElse(null);
-    return new ReadPlayerDTO(Byte.parseByte(totalMatches), Byte.parseByte(totalGoals), Short.parseShort(totalMinutes), birthDate, name, createPlayerId(name,
-        completeBirthData));
+    return new ReadPlayerDTO(Byte.parseByte(totalMatches), Byte.parseByte(totalGoals), Short.parseShort(totalMinutes), birthDate, name, createPlayerId(name, bd));
   }
 
   public String createPlayerId(final String name, final String birthday) {
